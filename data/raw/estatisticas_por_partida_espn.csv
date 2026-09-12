@@ -1,0 +1,599 @@
+partida_id,data,adversario,mando,jogador_id,nome,posicao,titular,entrou_reserva,saiu,minutos,gols,assistencias,finalizacoes,finalizacoes_gol,cartoes_amarelos,cartoes_vermelhos,faltas_cometidas,faltas_sofridas,defesas,gols_sofridos
+401841220,2026-09-06T22:30Z,Chapecoense,Casa,361442,Kauê Camargo,Goalkeeper,True,False,False,90.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,3.0,2.0
+401841220,2026-09-06T22:30Z,Chapecoense,Casa,168981,Gustavo Henrique,Center Left Defender,True,False,False,90.0,0.0,1.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,2.0
+401841220,2026-09-06T22:30Z,Chapecoense,Casa,361471,João Pedro,Center Right Defender,True,False,False,90.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2.0,0.0,2.0
+401841220,2026-09-06T22:30Z,Chapecoense,Casa,287774,Matheus Bidu,Left Back,True,False,False,90.0,1.0,0.0,1.0,1.0,0.0,0.0,1.0,3.0,0.0,2.0
+401841220,2026-09-06T22:30Z,Chapecoense,Casa,272533,Mateuzinho,Right Back,True,False,False,90.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2.0,0.0,2.0
+401841220,2026-09-06T22:30Z,Chapecoense,Casa,270562,Rodrigo Garro,Attacking Midfielder,True,False,True,83.17,0.0,0.0,2.0,1.0,0.0,0.0,1.0,1.0,0.0,2.0
+401841220,2026-09-06T22:30Z,Chapecoense,Casa,223437,Allan,Left Midfielder,True,False,True,65.88,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0,0.0,1.0
+401841220,2026-09-06T22:30Z,Chapecoense,Casa,148189,André Carrillo,Right Midfielder,True,False,True,83.45,0.0,0.0,2.0,0.0,0.0,0.0,0.0,1.0,0.0,2.0
+401841220,2026-09-06T22:30Z,Chapecoense,Casa,159255,Memphis Depay,Forward,True,False,True,65.73,0.0,0.0,3.0,1.0,0.0,0.0,0.0,2.0,0.0,1.0
+401841220,2026-09-06T22:30Z,Chapecoense,Casa,338898,Breno Bidon,Attacking Midfielder Left,True,False,False,90.0,0.0,0.0,2.0,1.0,0.0,0.0,2.0,4.0,0.0,2.0
+401841220,2026-09-06T22:30Z,Chapecoense,Casa,347456,Kaio,Attacking Midfielder Right,True,False,True,89.67,0.0,0.0,3.0,1.0,0.0,0.0,2.0,2.0,0.0,2.0
+401841220,2026-09-06T22:30Z,Chapecoense,Casa,195756,Fabrizio Angileri,Substitute,False,False,False,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+401841220,2026-09-06T22:30Z,Chapecoense,Casa,382959,Gui Negão,Substitute,False,True,False,24.27,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0
+401841220,2026-09-06T22:30Z,Chapecoense,Casa,361463,Felipe Longo,Substitute,False,False,False,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+401841220,2026-09-06T22:30Z,Chapecoense,Casa,303591,Hugo,Substitute,False,False,False,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+401841220,2026-09-06T22:30Z,Chapecoense,Casa,216098,Matheus Pereira,Substitute,False,True,False,6.55,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0
+401841220,2026-09-06T22:30Z,Chapecoense,Casa,196879,Alex Santana,Substitute,False,False,False,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+401841220,2026-09-06T22:30Z,Chapecoense,Casa,169136,Jesse Lingard,Substitute,False,True,False,24.12,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0,0.0,1.0
+401841220,2026-09-06T22:30Z,Chapecoense,Casa,382944,Dieguinho,Substitute,False,True,False,0.33,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+401841220,2026-09-06T22:30Z,Chapecoense,Casa,359849,Pedro Milans,Substitute,False,False,False,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+401841220,2026-09-06T22:30Z,Chapecoense,Casa,234070,Pedro Raúl,Substitute,False,True,False,6.83,0.0,0.0,2.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0
+401841220,2026-09-06T22:30Z,Chapecoense,Casa,421414,Iago Machado,Substitute,False,False,False,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+401841220,2026-09-06T22:30Z,Chapecoense,Casa,240557,Charles,Substitute,False,False,False,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+401841214,2026-08-30T19:00Z,Santos,Casa,257051,Hugo Souza,Goalkeeper,True,False,False,90.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,3.0,1.0
+401841214,2026-08-30T19:00Z,Santos,Casa,168981,Gustavo Henrique,Center Left Defender,True,False,False,90.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0
+401841214,2026-08-30T19:00Z,Santos,Casa,192226,Gabriel Paulista,Center Right Defender,True,False,False,90.0,0.0,0.0,0.0,0.0,1.0,0.0,1.0,0.0,0.0,1.0
+401841214,2026-08-30T19:00Z,Santos,Casa,287774,Matheus Bidu,Left Back,True,False,False,90.0,0.0,0.0,4.0,0.0,0.0,0.0,2.0,3.0,0.0,1.0
+401841214,2026-08-30T19:00Z,Santos,Casa,272533,Mateuzinho,Right Back,True,False,False,90.0,0.0,0.0,2.0,0.0,0.0,0.0,1.0,1.0,0.0,1.0
+401841214,2026-08-30T19:00Z,Santos,Casa,270562,Rodrigo Garro,Attacking Midfielder,True,False,False,90.0,0.0,0.0,2.0,0.0,1.0,0.0,2.0,3.0,0.0,1.0
+401841214,2026-08-30T19:00Z,Santos,Casa,236099,Raniele,Left Midfielder,True,False,True,83.02,0.0,0.0,1.0,0.0,1.0,0.0,1.0,0.0,0.0,1.0
+401841214,2026-08-30T19:00Z,Santos,Casa,223437,Allan,Right Midfielder,True,False,True,63.68,0.0,0.0,1.0,0.0,0.0,0.0,2.0,0.0,0.0,1.0
+401841214,2026-08-30T19:00Z,Santos,Casa,159255,Memphis Depay,Forward,True,False,False,90.0,0.0,0.0,2.0,0.0,0.0,0.0,0.0,2.0,0.0,1.0
+401841214,2026-08-30T19:00Z,Santos,Casa,382944,Dieguinho,Attacking Midfielder Left,True,False,True,76.68,0.0,0.0,3.0,1.0,0.0,0.0,0.0,1.0,0.0,1.0
+401841214,2026-08-30T19:00Z,Santos,Casa,347456,Kaio,Attacking Midfielder Right,True,False,False,90.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4.0,0.0,1.0
+401841214,2026-08-30T19:00Z,Santos,Casa,382961,Luiz Fernando,Substitute,False,False,False,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+401841214,2026-08-30T19:00Z,Santos,Casa,359849,Pedro Milans,Substitute,False,False,False,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+401841214,2026-08-30T19:00Z,Santos,Casa,240557,Charles,Substitute,False,False,False,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+401841214,2026-08-30T19:00Z,Santos,Casa,196879,Alex Santana,Substitute,False,False,False,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+401841214,2026-08-30T19:00Z,Santos,Casa,195756,Fabrizio Angileri,Substitute,False,False,False,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+401841214,2026-08-30T19:00Z,Santos,Casa,361442,Kauê Camargo,Substitute,False,False,False,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+401841214,2026-08-30T19:00Z,Santos,Casa,361471,João Pedro,Substitute,False,False,False,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+401841214,2026-08-30T19:00Z,Santos,Casa,234070,Pedro Raúl,Substitute,False,True,False,26.32,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0
+401841214,2026-08-30T19:00Z,Santos,Casa,382959,Gui Negão,Substitute,False,True,False,13.32,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+401841214,2026-08-30T19:00Z,Santos,Casa,303591,Hugo,Substitute,False,False,False,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+401841214,2026-08-30T19:00Z,Santos,Casa,216098,Matheus Pereira,Substitute,False,True,False,6.98,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+401841214,2026-08-30T19:00Z,Santos,Casa,421414,Iago Machado,Substitute,False,False,False,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+401841207,2026-08-23T22:30Z,Coritiba,Fora,361442,Kauê Camargo,Goalkeeper,True,False,False,90.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,2.0
+401841207,2026-08-23T22:30Z,Coritiba,Fora,168981,Gustavo Henrique,Center Left Defender,True,False,False,90.0,0.0,0.0,1.0,1.0,0.0,0.0,0.0,1.0,0.0,2.0
+401841207,2026-08-23T22:30Z,Coritiba,Fora,192226,Gabriel Paulista,Center Right Defender,True,False,False,90.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,2.0
+401841207,2026-08-23T22:30Z,Coritiba,Fora,195756,Fabrizio Angileri,Left Back,True,False,False,90.0,0.0,0.0,2.0,0.0,0.0,0.0,2.0,1.0,0.0,2.0
+401841207,2026-08-23T22:30Z,Coritiba,Fora,359849,Pedro Milans,Right Back,True,False,True,45.0,0.0,0.0,1.0,0.0,0.0,0.0,1.0,0.0,0.0,1.0
+401841207,2026-08-23T22:30Z,Coritiba,Fora,338898,Breno Bidon,Attacking Midfielder,True,False,True,70.92,0.0,0.0,1.0,0.0,1.0,0.0,1.0,1.0,0.0,1.0
+401841207,2026-08-23T22:30Z,Coritiba,Fora,223437,Allan,Left Midfielder,True,False,False,90.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,2.0
+401841207,2026-08-23T22:30Z,Coritiba,Fora,236099,Raniele,Right Midfielder,True,False,False,90.0,1.0,0.0,3.0,1.0,0.0,0.0,1.0,1.0,0.0,2.0
+401841207,2026-08-23T22:30Z,Coritiba,Fora,234070,Pedro Raúl,Forward,True,False,True,45.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0
+401841207,2026-08-23T22:30Z,Coritiba,Fora,148189,André Carrillo,Attacking Midfielder Left,True,False,True,71.08,0.0,0.0,1.0,0.0,0.0,0.0,1.0,1.0,0.0,1.0
+401841207,2026-08-23T22:30Z,Coritiba,Fora,347456,Kaio,Attacking Midfielder Right,True,False,True,81.57,0.0,0.0,2.0,0.0,0.0,0.0,1.0,2.0,0.0,2.0
+401841207,2026-08-23T22:30Z,Coritiba,Fora,382944,Dieguinho,Substitute,False,True,False,18.92,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,1.0
+401841207,2026-08-23T22:30Z,Coritiba,Fora,371496,Luiz Gustavo,Substitute,False,False,False,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+401841207,2026-08-23T22:30Z,Coritiba,Fora,216098,Matheus Pereira,Substitute,False,True,False,45.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,1.0
+401841207,2026-08-23T22:30Z,Coritiba,Fora,159255,Memphis Depay,Substitute,False,True,False,45.0,0.0,0.0,2.0,1.0,0.0,0.0,0.0,1.0,0.0,1.0
+401841207,2026-08-23T22:30Z,Coritiba,Fora,421414,Iago Machado,Substitute,False,False,False,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+401841207,2026-08-23T22:30Z,Coritiba,Fora,382959,Gui Negão,Substitute,False,True,False,19.08,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,1.0
+401841207,2026-08-23T22:30Z,Coritiba,Fora,361471,João Pedro,Substitute,False,False,False,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+401841207,2026-08-23T22:30Z,Coritiba,Fora,303591,Hugo,Substitute,False,False,False,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+401841207,2026-08-23T22:30Z,Coritiba,Fora,169136,Jesse Lingard,Substitute,False,True,False,8.43,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+401841207,2026-08-23T22:30Z,Coritiba,Fora,361463,Felipe Longo,Substitute,False,False,False,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+401841207,2026-08-23T22:30Z,Coritiba,Fora,240557,Charles,Substitute,False,False,False,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+401841207,2026-08-23T22:30Z,Coritiba,Fora,196879,Alex Santana,Substitute,False,False,False,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+401841193,2026-08-16T22:30Z,Cruzeiro,Casa,257051,Hugo Souza,Goalkeeper,True,False,False,90.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4.0,2.0
+401841193,2026-08-16T22:30Z,Cruzeiro,Casa,168981,Gustavo Henrique,Center Left Defender,True,False,False,90.0,1.0,0.0,3.0,1.0,0.0,0.0,1.0,0.0,0.0,2.0
+401841193,2026-08-16T22:30Z,Cruzeiro,Casa,192226,Gabriel Paulista,Center Right Defender,True,False,True,53.38,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0
+401841193,2026-08-16T22:30Z,Cruzeiro,Casa,287774,Matheus Bidu,Left Back,True,False,False,90.0,0.0,0.0,1.0,0.0,0.0,0.0,2.0,2.0,0.0,2.0
+401841193,2026-08-16T22:30Z,Cruzeiro,Casa,272533,Mateuzinho,Right Back,True,False,False,90.0,0.0,0.0,1.0,0.0,0.0,0.0,2.0,1.0,0.0,2.0
+401841193,2026-08-16T22:30Z,Cruzeiro,Casa,270562,Rodrigo Garro,Attacking Midfielder,True,False,False,90.0,0.0,0.0,4.0,1.0,1.0,0.0,1.0,7.0,0.0,2.0
+401841193,2026-08-16T22:30Z,Cruzeiro,Casa,223437,Allan,Left Midfielder,True,False,False,90.0,0.0,0.0,1.0,1.0,0.0,0.0,2.0,0.0,0.0,2.0
+401841193,2026-08-16T22:30Z,Cruzeiro,Casa,148189,André Carrillo,Right Midfielder,True,False,True,79.78,0.0,0.0,1.0,0.0,0.0,0.0,1.0,0.0,0.0,1.0
+401841193,2026-08-16T22:30Z,Cruzeiro,Casa,234070,Pedro Raúl,Forward,True,False,True,69.77,0.0,0.0,2.0,1.0,0.0,0.0,1.0,1.0,0.0,1.0
+401841193,2026-08-16T22:30Z,Cruzeiro,Casa,338898,Breno Bidon,Attacking Midfielder Left,True,False,True,45.0,0.0,0.0,1.0,0.0,0.0,0.0,1.0,0.0,0.0,1.0
+401841193,2026-08-16T22:30Z,Cruzeiro,Casa,347456,Kaio,Attacking Midfielder Right,True,False,True,70.02,0.0,0.0,4.0,1.0,0.0,0.0,1.0,3.0,0.0,1.0
+401841193,2026-08-16T22:30Z,Cruzeiro,Casa,361442,Kauê Camargo,Substitute,False,False,False,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+401841193,2026-08-16T22:30Z,Cruzeiro,Casa,240557,Charles,Substitute,False,False,False,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+401841193,2026-08-16T22:30Z,Cruzeiro,Casa,236099,Raniele,Substitute,False,False,False,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+401841193,2026-08-16T22:30Z,Cruzeiro,Casa,216098,Matheus Pereira,Substitute,False,True,False,10.22,0.0,0.0,1.0,0.0,0.0,0.0,0.0,1.0,0.0,1.0
+401841193,2026-08-16T22:30Z,Cruzeiro,Casa,382944,Dieguinho,Substitute,False,True,False,19.98,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0
+401841193,2026-08-16T22:30Z,Cruzeiro,Casa,359849,Pedro Milans,Substitute,False,False,False,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+401841193,2026-08-16T22:30Z,Cruzeiro,Casa,196879,Alex Santana,Substitute,False,False,False,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+401841193,2026-08-16T22:30Z,Cruzeiro,Casa,195756,Fabrizio Angileri,Substitute,False,False,False,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+401841193,2026-08-16T22:30Z,Cruzeiro,Casa,421414,Iago Machado,Substitute,False,False,False,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+401841193,2026-08-16T22:30Z,Cruzeiro,Casa,169136,Jesse Lingard,Substitute,False,True,False,45.0,0.0,0.0,0.0,0.0,0.0,0.0,3.0,0.0,0.0,1.0
+401841193,2026-08-16T22:30Z,Cruzeiro,Casa,382959,Gui Negão,Substitute,False,True,False,20.23,0.0,0.0,1.0,0.0,0.0,0.0,1.0,0.0,0.0,1.0
+401841193,2026-08-16T22:30Z,Cruzeiro,Casa,361471,João Pedro,Substitute,False,True,False,36.62,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,1.0
+401841179,2026-08-09T21:30Z,Red Bull Bragantino,Fora,257051,Hugo Souza,Goalkeeper,True,False,False,90.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2.0,0.0
+401841179,2026-08-09T21:30Z,Red Bull Bragantino,Fora,168981,Gustavo Henrique,Center Left Defender,True,False,False,90.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+401841179,2026-08-09T21:30Z,Red Bull Bragantino,Fora,192226,Gabriel Paulista,Center Right Defender,True,False,False,90.0,0.0,0.0,2.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0
+401841179,2026-08-09T21:30Z,Red Bull Bragantino,Fora,287774,Matheus Bidu,Left Back,True,False,False,90.0,0.0,0.0,2.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0
+401841179,2026-08-09T21:30Z,Red Bull Bragantino,Fora,272533,Mateuzinho,Right Back,True,False,False,90.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0,2.0,0.0,0.0
+401841179,2026-08-09T21:30Z,Red Bull Bragantino,Fora,270562,Rodrigo Garro,Attacking Midfielder,True,False,False,90.0,1.0,0.0,1.0,1.0,1.0,0.0,2.0,3.0,0.0,0.0
+401841179,2026-08-09T21:30Z,Red Bull Bragantino,Fora,236099,Raniele,Left Midfielder,True,False,True,65.33,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0
+401841179,2026-08-09T21:30Z,Red Bull Bragantino,Fora,223437,Allan,Right Midfielder,True,False,False,90.0,0.0,0.0,0.0,0.0,0.0,0.0,2.0,0.0,0.0,0.0
+401841179,2026-08-09T21:30Z,Red Bull Bragantino,Fora,234070,Pedro Raúl,Forward,True,False,False,90.0,1.0,0.0,2.0,2.0,0.0,0.0,3.0,1.0,0.0,0.0
+401841179,2026-08-09T21:30Z,Red Bull Bragantino,Fora,338898,Breno Bidon,Attacking Midfielder Left,True,False,False,90.0,0.0,0.0,0.0,0.0,0.0,0.0,2.0,1.0,0.0,0.0
+401841179,2026-08-09T21:30Z,Red Bull Bragantino,Fora,347456,Kaio,Attacking Midfielder Right,True,False,True,75.33,0.0,0.0,1.0,1.0,0.0,0.0,1.0,1.0,0.0,0.0
+401841179,2026-08-09T21:30Z,Red Bull Bragantino,Fora,359849,Pedro Milans,Substitute,False,False,False,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+401841179,2026-08-09T21:30Z,Red Bull Bragantino,Fora,240557,Charles,Substitute,False,False,False,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+401841179,2026-08-09T21:30Z,Red Bull Bragantino,Fora,361442,Kauê Camargo,Substitute,False,False,False,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+401841179,2026-08-09T21:30Z,Red Bull Bragantino,Fora,303591,Hugo,Substitute,False,False,False,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+401841179,2026-08-09T21:30Z,Red Bull Bragantino,Fora,169136,Jesse Lingard,Substitute,False,True,False,14.67,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+401841179,2026-08-09T21:30Z,Red Bull Bragantino,Fora,195756,Fabrizio Angileri,Substitute,False,False,False,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+401841179,2026-08-09T21:30Z,Red Bull Bragantino,Fora,361471,João Pedro,Substitute,False,False,False,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+401841179,2026-08-09T21:30Z,Red Bull Bragantino,Fora,216098,Matheus Pereira,Substitute,False,False,False,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+401841179,2026-08-09T21:30Z,Red Bull Bragantino,Fora,382959,Gui Negão,Substitute,False,False,False,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+401841179,2026-08-09T21:30Z,Red Bull Bragantino,Fora,382944,Dieguinho,Substitute,False,False,False,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+401841179,2026-08-09T21:30Z,Red Bull Bragantino,Fora,194090,André Ramalho,Substitute,False,False,False,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+401841179,2026-08-09T21:30Z,Red Bull Bragantino,Fora,148189,André Carrillo,Substitute,False,True,False,24.67,0.0,0.0,0.0,0.0,1.0,0.0,3.0,0.0,0.0,0.0
+401841174,2026-07-30T22:30Z,Athletico Paranaense,Casa,257051,Hugo Souza,Goalkeeper,True,False,False,90.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0
+401841174,2026-07-30T22:30Z,Athletico Paranaense,Casa,236099,Raniele,Center Left Defender,True,False,False,90.0,0.0,0.0,0.0,0.0,0.0,0.0,2.0,3.0,0.0,0.0
+401841174,2026-07-30T22:30Z,Athletico Paranaense,Casa,194090,André Ramalho,Center Right Defender,True,False,False,90.0,0.0,0.0,1.0,0.0,1.0,0.0,0.0,2.0,0.0,0.0
+401841174,2026-07-30T22:30Z,Athletico Paranaense,Casa,272533,Mateuzinho,Left Back,True,False,False,90.0,0.0,0.0,1.0,1.0,1.0,0.0,0.0,1.0,0.0,0.0
+401841174,2026-07-30T22:30Z,Athletico Paranaense,Casa,359849,Pedro Milans,Right Back,True,False,False,90.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+401841174,2026-07-30T22:30Z,Athletico Paranaense,Casa,216098,Matheus Pereira,Attacking Midfielder,True,False,True,76.37,0.0,0.0,0.0,0.0,0.0,0.0,3.0,1.0,0.0,0.0
+401841174,2026-07-30T22:30Z,Athletico Paranaense,Casa,223437,Allan,Left Midfielder,True,False,False,90.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0
+401841174,2026-07-30T22:30Z,Athletico Paranaense,Casa,148189,André Carrillo,Right Midfielder,True,False,True,82.53,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0
+401841174,2026-07-30T22:30Z,Athletico Paranaense,Casa,169136,Jesse Lingard,Forward,True,False,False,90.0,0.0,0.0,1.0,1.0,0.0,0.0,3.0,3.0,0.0,0.0
+401841174,2026-07-30T22:30Z,Athletico Paranaense,Casa,144324,Zakaria Labyad,Attacking Midfielder Left,True,False,True,45.0,0.0,0.0,0.0,0.0,0.0,0.0,3.0,1.0,0.0,0.0
+401841174,2026-07-30T22:30Z,Athletico Paranaense,Casa,382944,Dieguinho,Attacking Midfielder Right,True,False,True,45.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0
+401841174,2026-07-30T22:30Z,Athletico Paranaense,Casa,361442,Kauê Camargo,Substitute,False,False,False,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+401841174,2026-07-30T22:30Z,Athletico Paranaense,Casa,421414,Iago Machado,Substitute,False,False,False,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+401841174,2026-07-30T22:30Z,Athletico Paranaense,Casa,382959,Gui Negão,Substitute,False,False,False,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+401841174,2026-07-30T22:30Z,Athletico Paranaense,Casa,168981,Gustavo Henrique,Substitute,False,False,False,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+401841174,2026-07-30T22:30Z,Athletico Paranaense,Casa,347456,Kaio,Substitute,False,True,False,45.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0
+401841174,2026-07-30T22:30Z,Athletico Paranaense,Casa,192226,Gabriel Paulista,Substitute,False,False,False,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+401841174,2026-07-30T22:30Z,Athletico Paranaense,Casa,270562,Rodrigo Garro,Substitute,False,True,False,12.32,0.0,0.0,0.0,0.0,1.0,0.0,2.0,1.0,0.0,0.0
+401841174,2026-07-30T22:30Z,Athletico Paranaense,Casa,361471,João Pedro,Substitute,False,False,False,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+401841174,2026-07-30T22:30Z,Athletico Paranaense,Casa,266666,Yuri Alberto,Substitute,False,True,True,32.68,0.0,0.0,2.0,2.0,0.0,0.0,1.0,0.0,0.0,0.0
+401841174,2026-07-30T22:30Z,Athletico Paranaense,Casa,240557,Charles,Substitute,False,False,False,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+401841174,2026-07-30T22:30Z,Athletico Paranaense,Casa,338898,Breno Bidon,Substitute,False,True,False,13.63,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+401841174,2026-07-30T22:30Z,Athletico Paranaense,Casa,409662,André,Substitute,False,True,False,7.47,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+401841159,2026-07-26T19:00Z,Bahia,Fora,257051,Hugo Souza,Goalkeeper,True,False,False,90.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0
+401841159,2026-07-26T19:00Z,Bahia,Fora,168981,Gustavo Henrique,Center Left Defender,True,False,False,90.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0
+401841159,2026-07-26T19:00Z,Bahia,Fora,192226,Gabriel Paulista,Center Right Defender,True,False,False,90.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2.0,0.0,1.0
+401841159,2026-07-26T19:00Z,Bahia,Fora,195756,Fabrizio Angileri,Left Back,True,False,True,68.97,1.0,0.0,1.0,1.0,1.0,0.0,2.0,1.0,0.0,1.0
+401841159,2026-07-26T19:00Z,Bahia,Fora,272533,Mateuzinho,Right Back,True,False,False,90.0,0.0,0.0,1.0,1.0,0.0,0.0,1.0,0.0,0.0,1.0
+401841159,2026-07-26T19:00Z,Bahia,Fora,270562,Rodrigo Garro,Attacking Midfielder,True,False,False,90.0,0.0,0.0,0.0,0.0,0.0,0.0,2.0,4.0,0.0,1.0
+401841159,2026-07-26T19:00Z,Bahia,Fora,409662,André,Left Midfielder,True,False,True,76.28,0.0,1.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,1.0
+401841159,2026-07-26T19:00Z,Bahia,Fora,236099,Raniele,Right Midfielder,True,False,True,76.37,0.0,0.0,0.0,0.0,1.0,0.0,1.0,3.0,0.0,1.0
+401841159,2026-07-26T19:00Z,Bahia,Fora,266666,Yuri Alberto,Forward,True,False,True,84.08,0.0,0.0,1.0,0.0,0.0,0.0,2.0,0.0,0.0,1.0
+401841159,2026-07-26T19:00Z,Bahia,Fora,338898,Breno Bidon,Attacking Midfielder Left,True,False,True,69.15,0.0,0.0,1.0,0.0,1.0,0.0,2.0,1.0,0.0,1.0
+401841159,2026-07-26T19:00Z,Bahia,Fora,347456,Kaio,Attacking Midfielder Right,True,False,False,90.0,0.0,0.0,0.0,0.0,0.0,0.0,2.0,4.0,0.0,1.0
+401841159,2026-07-26T19:00Z,Bahia,Fora,144324,Zakaria Labyad,Substitute,False,True,False,20.85,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+401841159,2026-07-26T19:00Z,Bahia,Fora,382944,Dieguinho,Substitute,False,False,False,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+401841159,2026-07-26T19:00Z,Bahia,Fora,234070,Pedro Raúl,Substitute,False,False,False,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+401841159,2026-07-26T19:00Z,Bahia,Fora,223437,Allan,Substitute,False,True,False,13.72,0.0,0.0,0.0,0.0,1.0,0.0,2.0,0.0,0.0,0.0
+401841159,2026-07-26T19:00Z,Bahia,Fora,361442,Kauê Camargo,Substitute,False,False,False,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0
+401841159,2026-07-26T19:00Z,Bahia,Fora,359849,Pedro Milans,Substitute,False,True,False,21.03,0.0,0.0,0.0,0.0,0.0,0.0,2.0,2.0,0.0,0.0
+401841159,2026-07-26T19:00Z,Bahia,Fora,216098,Matheus Pereira,Substitute,False,True,False,13.63,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0
+401841159,2026-07-26T19:00Z,Bahia,Fora,361471,João Pedro,Substitute,False,False,False,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+401841159,2026-07-26T19:00Z,Bahia,Fora,240557,Charles,Substitute,False,False,False,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+401841159,2026-07-26T19:00Z,Bahia,Fora,194090,André Ramalho,Substitute,False,False,False,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+401841159,2026-07-26T19:00Z,Bahia,Fora,148189,André Carrillo,Substitute,False,True,False,5.92,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+401841159,2026-07-26T19:00Z,Bahia,Fora,169136,Jesse Lingard,Substitute,False,False,False,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+401841151,2026-07-23T22:30Z,Remo,Casa,257051,Hugo Souza,Goalkeeper,True,False,False,90.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+401841151,2026-07-23T22:30Z,Remo,Casa,168981,Gustavo Henrique,Center Left Defender,True,False,False,90.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0
+401841151,2026-07-23T22:30Z,Remo,Casa,192226,Gabriel Paulista,Center Right Defender,True,False,False,90.0,0.0,0.0,1.0,0.0,1.0,0.0,1.0,0.0,0.0,0.0
+401841151,2026-07-23T22:30Z,Remo,Casa,287774,Matheus Bidu,Left Back,True,False,True,79.78,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0
+401841151,2026-07-23T22:30Z,Remo,Casa,272533,Mateuzinho,Right Back,True,False,False,90.0,0.0,0.0,2.0,1.0,0.0,0.0,1.0,1.0,0.0,0.0
+401841151,2026-07-23T22:30Z,Remo,Casa,338898,Breno Bidon,Attacking Midfielder,True,False,True,85.25,0.0,1.0,1.0,1.0,0.0,0.0,2.0,3.0,0.0,0.0
+401841151,2026-07-23T22:30Z,Remo,Casa,409662,André,Left Midfielder,True,False,True,79.63,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+401841151,2026-07-23T22:30Z,Remo,Casa,223437,Allan,Right Midfielder,True,False,False,90.0,0.0,0.0,1.0,1.0,0.0,0.0,2.0,2.0,0.0,0.0
+401841151,2026-07-23T22:30Z,Remo,Casa,266666,Yuri Alberto,Forward,True,False,False,90.0,2.0,0.0,4.0,2.0,0.0,0.0,3.0,0.0,0.0,0.0
+401841151,2026-07-23T22:30Z,Remo,Casa,144324,Zakaria Labyad,Attacking Midfielder Left,True,False,True,71.77,0.0,1.0,1.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0
+401841151,2026-07-23T22:30Z,Remo,Casa,347456,Kaio,Attacking Midfielder Right,True,False,True,72.4,1.0,0.0,3.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0
+401841151,2026-07-23T22:30Z,Remo,Casa,194090,André Ramalho,Substitute,False,False,False,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+401841151,2026-07-23T22:30Z,Remo,Casa,234070,Pedro Raúl,Substitute,False,False,False,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+401841151,2026-07-23T22:30Z,Remo,Casa,216098,Matheus Pereira,Substitute,False,True,False,10.37,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+401841151,2026-07-23T22:30Z,Remo,Casa,169136,Jesse Lingard,Substitute,False,True,False,18.23,0.0,0.0,1.0,0.0,0.0,0.0,2.0,0.0,0.0,0.0
+401841151,2026-07-23T22:30Z,Remo,Casa,361442,Kauê Camargo,Substitute,False,False,False,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+401841151,2026-07-23T22:30Z,Remo,Casa,359849,Pedro Milans,Substitute,False,False,False,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+401841151,2026-07-23T22:30Z,Remo,Casa,240557,Charles,Substitute,False,False,False,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+401841151,2026-07-23T22:30Z,Remo,Casa,148189,André Carrillo,Substitute,False,True,False,17.6,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+401841151,2026-07-23T22:30Z,Remo,Casa,382944,Dieguinho,Substitute,False,True,False,4.75,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0
+401841151,2026-07-23T22:30Z,Remo,Casa,361471,João Pedro,Substitute,False,False,False,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+401841151,2026-07-23T22:30Z,Remo,Casa,196879,Alex Santana,Substitute,False,False,False,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+401841151,2026-07-23T22:30Z,Remo,Casa,195756,Fabrizio Angileri,Substitute,False,True,False,10.22,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+401841139,2026-05-30T20:30Z,Grêmio,Fora,257051,Hugo Souza,Goalkeeper,True,False,False,90.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0
+401841139,2026-05-30T20:30Z,Grêmio,Fora,272533,Mateuzinho,Defender,True,False,False,90.0,0.0,0.0,1.0,0.0,0.0,0.0,2.0,1.0,0.0,1.0
+401841139,2026-05-30T20:30Z,Grêmio,Fora,192226,Gabriel Paulista,Defender,True,False,False,90.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,1.0,0.0,1.0
+401841139,2026-05-30T20:30Z,Grêmio,Fora,168981,Gustavo Henrique,Defender,True,False,False,90.0,0.0,0.0,1.0,0.0,0.0,0.0,2.0,0.0,0.0,1.0
+401841139,2026-05-30T20:30Z,Grêmio,Fora,287774,Matheus Bidu,Defender,True,False,False,90.0,0.0,0.0,2.0,0.0,0.0,0.0,2.0,6.0,0.0,1.0
+401841139,2026-05-30T20:30Z,Grêmio,Fora,338898,Breno Bidon,Midfielder,True,False,True,90.0,0.0,0.0,3.0,0.0,0.0,0.0,3.0,5.0,0.0,1.0
+401841139,2026-05-30T20:30Z,Grêmio,Fora,270562,Rodrigo Garro,Midfielder,True,False,True,90.0,0.0,0.0,5.0,3.0,1.0,0.0,1.0,3.0,0.0,1.0
+401841139,2026-05-30T20:30Z,Grêmio,Fora,347456,Kaio,Midfielder,True,False,True,87.57,1.0,0.0,2.0,2.0,1.0,0.0,2.0,3.0,0.0,1.0
+401841139,2026-05-30T20:30Z,Grêmio,Fora,409662,André,Midfielder,True,False,True,87.75,2.0,0.0,3.0,2.0,0.0,0.0,2.0,0.0,0.0,1.0
+401841139,2026-05-30T20:30Z,Grêmio,Fora,236099,Raniele,Midfielder,True,False,True,81.75,0.0,0.0,2.0,0.0,0.0,0.0,1.0,3.0,0.0,1.0
+401841139,2026-05-30T20:30Z,Grêmio,Fora,266666,Yuri Alberto,Forward,True,False,False,90.0,0.0,2.0,4.0,2.0,0.0,0.0,5.0,1.0,0.0,1.0
+401841139,2026-05-30T20:30Z,Grêmio,Fora,361442,Kauê Camargo,Substitute,False,False,False,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+401841139,2026-05-30T20:30Z,Grêmio,Fora,382959,Gui Negão,Substitute,False,False,False,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+401841139,2026-05-30T20:30Z,Grêmio,Fora,223437,Allan,Substitute,False,True,False,8.25,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+401841139,2026-05-30T20:30Z,Grêmio,Fora,194090,André Ramalho,Substitute,False,False,False,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+401841139,2026-05-30T20:30Z,Grêmio,Fora,216098,Matheus Pereira,Substitute,False,True,False,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+401841139,2026-05-30T20:30Z,Grêmio,Fora,359849,Pedro Milans,Substitute,False,False,False,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+401841139,2026-05-30T20:30Z,Grêmio,Fora,196879,Alex Santana,Substitute,False,False,False,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+401841139,2026-05-30T20:30Z,Grêmio,Fora,144324,Zakaria Labyad,Substitute,False,True,False,2.43,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+401841139,2026-05-30T20:30Z,Grêmio,Fora,234070,Pedro Raúl,Substitute,False,False,False,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+401841139,2026-05-30T20:30Z,Grêmio,Fora,148189,André Carrillo,Substitute,False,True,False,2.25,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+401841139,2026-05-30T20:30Z,Grêmio,Fora,195756,Fabrizio Angileri,Substitute,False,False,False,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+401841139,2026-05-30T20:30Z,Grêmio,Fora,382944,Dieguinho,Substitute,False,True,False,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+401841128,2026-05-24T21:30Z,Atlético-MG,Casa,257051,Hugo Souza,Goalkeeper,True,False,False,90.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0
+401841128,2026-05-24T21:30Z,Atlético-MG,Casa,168981,Gustavo Henrique,Center Left Defender,True,False,False,90.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+401841128,2026-05-24T21:30Z,Atlético-MG,Casa,192226,Gabriel Paulista,Center Right Defender,True,False,False,90.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0
+401841128,2026-05-24T21:30Z,Atlético-MG,Casa,287774,Matheus Bidu,Left Back,True,False,False,90.0,0.0,0.0,0.0,0.0,0.0,0.0,3.0,3.0,0.0,0.0
+401841128,2026-05-24T21:30Z,Atlético-MG,Casa,272533,Mateuzinho,Right Back,True,False,False,90.0,0.0,1.0,1.0,1.0,0.0,0.0,1.0,0.0,0.0,0.0
+401841128,2026-05-24T21:30Z,Atlético-MG,Casa,270562,Rodrigo Garro,Attacking Midfielder,True,False,True,76.25,0.0,0.0,2.0,1.0,0.0,0.0,3.0,4.0,0.0,0.0
+401841128,2026-05-24T21:30Z,Atlético-MG,Casa,236099,Raniele,Left Midfielder,True,False,True,60.25,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0
+401841128,2026-05-24T21:30Z,Atlético-MG,Casa,409662,André,Right Midfielder,True,False,True,60.1,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+401841128,2026-05-24T21:30Z,Atlético-MG,Casa,266666,Yuri Alberto,Forward,True,False,False,90.0,0.0,0.0,0.0,0.0,1.0,0.0,1.0,0.0,0.0,0.0
+401841128,2026-05-24T21:30Z,Atlético-MG,Casa,169136,Jesse Lingard,Attacking Midfielder Left,True,False,True,45.0,0.0,0.0,1.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0
+401841128,2026-05-24T21:30Z,Atlético-MG,Casa,338898,Breno Bidon,Attacking Midfielder Right,True,False,True,80.55,0.0,0.0,1.0,0.0,0.0,0.0,2.0,1.0,0.0,0.0
+401841128,2026-05-24T21:30Z,Atlético-MG,Casa,159255,Memphis Depay,Substitute,False,True,False,29.9,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2.0,0.0,0.0
+401841128,2026-05-24T21:30Z,Atlético-MG,Casa,223437,Allan,Substitute,False,True,False,29.75,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+401841128,2026-05-24T21:30Z,Atlético-MG,Casa,194090,André Ramalho,Substitute,False,False,False,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+401841128,2026-05-24T21:30Z,Atlético-MG,Casa,195756,Fabrizio Angileri,Substitute,False,False,False,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+401841128,2026-05-24T21:30Z,Atlético-MG,Casa,359849,Pedro Milans,Substitute,False,False,False,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+401841128,2026-05-24T21:30Z,Atlético-MG,Casa,234070,Pedro Raúl,Substitute,False,False,False,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+401841128,2026-05-24T21:30Z,Atlético-MG,Casa,144324,Zakaria Labyad,Substitute,False,True,False,13.75,1.0,0.0,1.0,1.0,0.0,0.0,2.0,0.0,0.0,0.0
+401841128,2026-05-24T21:30Z,Atlético-MG,Casa,361442,Kauê Camargo,Substitute,False,False,False,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+401841128,2026-05-24T21:30Z,Atlético-MG,Casa,347456,Kaio,Substitute,False,True,False,45.0,0.0,0.0,2.0,1.0,0.0,0.0,1.0,2.0,0.0,0.0
+401841128,2026-05-24T21:30Z,Atlético-MG,Casa,382944,Dieguinho,Substitute,False,False,False,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+401841128,2026-05-24T21:30Z,Atlético-MG,Casa,216098,Matheus Pereira,Substitute,False,False,False,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+401841128,2026-05-24T21:30Z,Atlético-MG,Casa,148189,André Carrillo,Substitute,False,True,False,9.45,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+401841118,2026-05-17T19:00Z,Botafogo,Fora,257051,Hugo Souza,Goalkeeper,True,False,False,90.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2.0,3.0
+401841118,2026-05-17T19:00Z,Botafogo,Fora,168981,Gustavo Henrique,Center Left Defender,True,False,False,90.0,0.0,0.0,3.0,0.0,0.0,0.0,0.0,0.0,0.0,3.0
+401841118,2026-05-17T19:00Z,Botafogo,Fora,194090,André Ramalho,Center Right Defender,True,False,False,90.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,1.0,0.0,3.0
+401841118,2026-05-17T19:00Z,Botafogo,Fora,287774,Matheus Bidu,Left Back,True,False,False,90.0,0.0,0.0,3.0,0.0,0.0,0.0,0.0,4.0,0.0,3.0
+401841118,2026-05-17T19:00Z,Botafogo,Fora,272533,Mateuzinho,Right Back,True,False,False,90.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,3.0
+401841118,2026-05-17T19:00Z,Botafogo,Fora,270562,Rodrigo Garro,Attacking Midfielder,True,False,True,76.12,1.0,0.0,5.0,1.0,0.0,0.0,0.0,6.0,0.0,3.0
+401841118,2026-05-17T19:00Z,Botafogo,Fora,236099,Raniele,Left Midfielder,True,False,True,62.05,0.0,0.0,1.0,0.0,0.0,0.0,1.0,2.0,0.0,2.0
+401841118,2026-05-17T19:00Z,Botafogo,Fora,148189,André Carrillo,Right Midfielder,True,False,True,76.15,0.0,0.0,0.0,0.0,0.0,0.0,4.0,1.0,0.0,3.0
+401841118,2026-05-17T19:00Z,Botafogo,Fora,266666,Yuri Alberto,Forward,True,False,False,90.0,0.0,0.0,3.0,0.0,0.0,0.0,0.0,0.0,0.0,3.0
+401841118,2026-05-17T19:00Z,Botafogo,Fora,169136,Jesse Lingard,Attacking Midfielder Left,True,False,True,45.0,0.0,1.0,0.0,0.0,1.0,0.0,1.0,0.0,0.0,2.0
+401841118,2026-05-17T19:00Z,Botafogo,Fora,338898,Breno Bidon,Attacking Midfielder Right,True,False,True,75.75,0.0,0.0,3.0,0.0,0.0,0.0,1.0,5.0,0.0,3.0
+401841118,2026-05-17T19:00Z,Botafogo,Fora,216098,Matheus Pereira,Substitute,False,False,False,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+401841118,2026-05-17T19:00Z,Botafogo,Fora,223437,Allan,Substitute,False,True,False,14.25,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+401841118,2026-05-17T19:00Z,Botafogo,Fora,382959,Gui Negão,Substitute,False,False,False,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+401841118,2026-05-17T19:00Z,Botafogo,Fora,361442,Kauê Camargo,Substitute,False,False,False,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+401841118,2026-05-17T19:00Z,Botafogo,Fora,234070,Pedro Raúl,Substitute,False,True,False,13.88,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+401841118,2026-05-17T19:00Z,Botafogo,Fora,409662,André,Substitute,False,True,False,27.95,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,1.0
+401841118,2026-05-17T19:00Z,Botafogo,Fora,359849,Pedro Milans,Substitute,False,False,False,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+401841118,2026-05-17T19:00Z,Botafogo,Fora,347456,Kaio,Substitute,False,True,False,45.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,3.0,0.0,1.0
+401841118,2026-05-17T19:00Z,Botafogo,Fora,196879,Alex Santana,Substitute,False,False,False,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+401841118,2026-05-17T19:00Z,Botafogo,Fora,195756,Fabrizio Angileri,Substitute,False,False,False,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+401841118,2026-05-17T19:00Z,Botafogo,Fora,382944,Dieguinho,Substitute,False,True,False,13.85,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+401841118,2026-05-17T19:00Z,Botafogo,Fora,421414,Iago Machado,Substitute,False,False,False,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+401841115,2026-05-10T21:30Z,São Paulo,Casa,257051,Hugo Souza,Goalkeeper,True,False,False,90.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,3.0,2.0
+401841115,2026-05-10T21:30Z,São Paulo,Casa,168981,Gustavo Henrique,Center Left Defender,True,False,False,90.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,2.0
+401841115,2026-05-10T21:30Z,São Paulo,Casa,192226,Gabriel Paulista,Center Right Defender,True,False,False,90.0,0.0,0.0,0.0,0.0,1.0,0.0,1.0,0.0,0.0,2.0
+401841115,2026-05-10T21:30Z,São Paulo,Casa,287774,Matheus Bidu,Left Back,True,False,False,90.0,0.0,0.0,1.0,0.0,1.0,0.0,0.0,0.0,0.0,2.0
+401841115,2026-05-10T21:30Z,São Paulo,Casa,272533,Mateuzinho,Right Back,True,False,False,90.0,1.0,0.0,2.0,1.0,0.0,0.0,2.0,0.0,0.0,2.0
+401841115,2026-05-10T21:30Z,São Paulo,Casa,270562,Rodrigo Garro,Attacking Midfielder,True,False,True,87.98,0.0,2.0,2.0,0.0,0.0,0.0,4.0,3.0,0.0,1.0
+401841115,2026-05-10T21:30Z,São Paulo,Casa,236099,Raniele,Left Midfielder,True,False,False,90.0,1.0,0.0,2.0,1.0,0.0,0.0,0.0,2.0,0.0,2.0
+401841115,2026-05-10T21:30Z,São Paulo,Casa,148189,André Carrillo,Right Midfielder,True,False,True,82.58,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0
+401841115,2026-05-10T21:30Z,São Paulo,Casa,266666,Yuri Alberto,Forward,True,False,True,87.95,0.0,0.0,5.0,2.0,0.0,0.0,1.0,1.0,0.0,1.0
+401841115,2026-05-10T21:30Z,São Paulo,Casa,169136,Jesse Lingard,Attacking Midfielder Left,True,False,False,90.0,0.0,0.0,2.0,1.0,0.0,0.0,1.0,1.0,0.0,2.0
+401841115,2026-05-10T21:30Z,São Paulo,Casa,338898,Breno Bidon,Attacking Midfielder Right,True,False,False,90.0,1.0,0.0,1.0,1.0,0.0,0.0,2.0,3.0,0.0,2.0
+401841115,2026-05-10T21:30Z,São Paulo,Casa,144324,Zakaria Labyad,Substitute,False,True,False,2.02,0.0,0.0,0.0,0.0,1.0,0.0,0.0,1.0,0.0,1.0
+401841115,2026-05-10T21:30Z,São Paulo,Casa,361442,Kauê Camargo,Substitute,False,False,False,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+401841115,2026-05-10T21:30Z,São Paulo,Casa,234070,Pedro Raúl,Substitute,False,True,False,2.05,0.0,0.0,0.0,0.0,1.0,0.0,0.0,2.0,0.0,1.0
+401841115,2026-05-10T21:30Z,São Paulo,Casa,347456,Kaio,Substitute,False,False,False,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+401841115,2026-05-10T21:30Z,São Paulo,Casa,359849,Pedro Milans,Substitute,False,False,False,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+401841115,2026-05-10T21:30Z,São Paulo,Casa,195756,Fabrizio Angileri,Substitute,False,False,False,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+401841115,2026-05-10T21:30Z,São Paulo,Casa,382944,Dieguinho,Substitute,False,True,False,7.42,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0
+401841115,2026-05-10T21:30Z,São Paulo,Casa,421414,Iago Machado,Substitute,False,False,False,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+401841115,2026-05-10T21:30Z,São Paulo,Casa,382959,Gui Negão,Substitute,False,False,False,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+401841115,2026-05-10T21:30Z,São Paulo,Casa,216098,Matheus Pereira,Substitute,False,False,False,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+401841115,2026-05-10T21:30Z,São Paulo,Casa,196879,Alex Santana,Substitute,False,False,False,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+401841115,2026-05-10T21:30Z,São Paulo,Casa,194090,André Ramalho,Substitute,False,False,False,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+401841103,2026-05-03T23:30Z,Mirassol,Fora,257051,Hugo Souza,Goalkeeper,True,False,False,90.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,3.0,2.0
+401841103,2026-05-03T23:30Z,Mirassol,Fora,192226,Gabriel Paulista,Center Left Defender,True,False,False,90.0,0.0,0.0,0.0,0.0,1.0,0.0,2.0,0.0,0.0,2.0
+401841103,2026-05-03T23:30Z,Mirassol,Fora,194090,André Ramalho,Center Right Defender,True,False,False,90.0,0.0,0.0,1.0,0.0,0.0,0.0,1.0,1.0,0.0,2.0
+401841103,2026-05-03T23:30Z,Mirassol,Fora,287774,Matheus Bidu,Left Back,True,False,False,90.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,4.0,0.0,2.0
+401841103,2026-05-03T23:30Z,Mirassol,Fora,236099,Raniele,Right Back,True,False,False,90.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,1.0,0.0,2.0
+401841103,2026-05-03T23:30Z,Mirassol,Fora,270562,Rodrigo Garro,Attacking Midfielder,True,False,True,73.53,0.0,0.0,0.0,0.0,0.0,0.0,0.0,5.0,0.0,2.0
+401841103,2026-05-03T23:30Z,Mirassol,Fora,223437,Allan,Left Midfielder,True,False,False,90.0,0.0,0.0,1.0,0.0,1.0,0.0,4.0,0.0,0.0,2.0
+401841103,2026-05-03T23:30Z,Mirassol,Fora,216098,Matheus Pereira,Right Midfielder,True,False,True,73.63,0.0,0.0,1.0,0.0,0.0,0.0,0.0,1.0,0.0,2.0
+401841103,2026-05-03T23:30Z,Mirassol,Fora,266666,Yuri Alberto,Forward,True,False,True,73.17,0.0,0.0,2.0,2.0,0.0,0.0,1.0,0.0,0.0,2.0
+401841103,2026-05-03T23:30Z,Mirassol,Fora,169136,Jesse Lingard,Attacking Midfielder Left,True,False,True,61.62,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,2.0
+401841103,2026-05-03T23:30Z,Mirassol,Fora,338898,Breno Bidon,Attacking Midfielder Right,True,False,True,80.17,0.0,0.0,1.0,0.0,0.0,0.0,2.0,2.0,0.0,2.0
+401841103,2026-05-03T23:30Z,Mirassol,Fora,382944,Dieguinho,Substitute,False,True,False,16.37,1.0,0.0,2.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0
+401841103,2026-05-03T23:30Z,Mirassol,Fora,234070,Pedro Raúl,Substitute,False,True,False,16.83,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0
+401841103,2026-05-03T23:30Z,Mirassol,Fora,359849,Pedro Milans,Substitute,False,False,False,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+401841103,2026-05-03T23:30Z,Mirassol,Fora,144324,Zakaria Labyad,Substitute,False,True,False,16.47,0.0,1.0,1.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0
+401841103,2026-05-03T23:30Z,Mirassol,Fora,400429,Nícollas,Substitute,False,False,False,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+401841103,2026-05-03T23:30Z,Mirassol,Fora,382959,Gui Negão,Substitute,False,False,False,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+401841103,2026-05-03T23:30Z,Mirassol,Fora,196879,Alex Santana,Substitute,False,True,False,9.83,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+401841103,2026-05-03T23:30Z,Mirassol,Fora,195756,Fabrizio Angileri,Substitute,False,False,False,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+401841103,2026-05-03T23:30Z,Mirassol,Fora,421414,Iago Machado,Substitute,False,False,False,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+401841103,2026-05-03T23:30Z,Mirassol,Fora,361463,Felipe Longo,Substitute,False,False,False,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+401841103,2026-05-03T23:30Z,Mirassol,Fora,361442,Kauê Camargo,Substitute,False,False,False,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+401841103,2026-05-03T23:30Z,Mirassol,Fora,347456,Kaio,Substitute,False,True,False,28.38,0.0,0.0,0.0,0.0,0.0,0.0,0.0,3.0,0.0,0.0
+401841089,2026-04-26T19:00Z,Vasco da Gama,Casa,361442,Kauê Camargo,Goalkeeper,True,False,False,90.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,1.0,7.0,0.0
+401841089,2026-04-26T19:00Z,Vasco da Gama,Casa,168981,Gustavo Henrique,Center Left Defender,True,False,False,90.0,0.0,0.0,2.0,2.0,1.0,0.0,1.0,0.0,0.0,0.0
+401841089,2026-04-26T19:00Z,Vasco da Gama,Casa,192226,Gabriel Paulista,Center Right Defender,True,False,False,90.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+401841089,2026-04-26T19:00Z,Vasco da Gama,Casa,287774,Matheus Bidu,Left Back,True,False,True,88.12,1.0,0.0,2.0,1.0,0.0,0.0,0.0,2.0,0.0,0.0
+401841089,2026-04-26T19:00Z,Vasco da Gama,Casa,236099,Raniele,Right Back,True,False,False,90.0,0.0,0.0,3.0,1.0,0.0,0.0,2.0,3.0,0.0,0.0
+401841089,2026-04-26T19:00Z,Vasco da Gama,Casa,270562,Rodrigo Garro,Attacking Midfielder,True,False,True,76.63,0.0,1.0,1.0,1.0,0.0,0.0,2.0,4.0,0.0,0.0
+401841089,2026-04-26T19:00Z,Vasco da Gama,Casa,223437,Allan,Left Midfielder,True,False,False,90.0,0.0,0.0,1.0,0.0,0.0,0.0,2.0,0.0,0.0,0.0
+401841089,2026-04-26T19:00Z,Vasco da Gama,Casa,409662,André,Right Midfielder,True,False,False,44.55,0.0,0.0,0.0,0.0,0.0,1.0,3.0,0.0,0.0,0.0
+401841089,2026-04-26T19:00Z,Vasco da Gama,Casa,266666,Yuri Alberto,Forward,True,False,False,90.0,0.0,0.0,1.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0
+401841089,2026-04-26T19:00Z,Vasco da Gama,Casa,171652,Vitinho,Attacking Midfielder Left,True,False,True,62.72,0.0,0.0,2.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0
+401841089,2026-04-26T19:00Z,Vasco da Gama,Casa,338898,Breno Bidon,Attacking Midfielder Right,True,False,True,88.7,0.0,0.0,0.0,0.0,0.0,0.0,0.0,5.0,0.0,0.0
+401841089,2026-04-26T19:00Z,Vasco da Gama,Casa,216098,Matheus Pereira,Substitute,False,True,False,1.3,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+401841089,2026-04-26T19:00Z,Vasco da Gama,Casa,194090,André Ramalho,Substitute,False,False,False,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+401841089,2026-04-26T19:00Z,Vasco da Gama,Casa,382944,Dieguinho,Substitute,False,False,False,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+401841089,2026-04-26T19:00Z,Vasco da Gama,Casa,347456,Kaio,Substitute,False,False,False,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+401841089,2026-04-26T19:00Z,Vasco da Gama,Casa,195756,Fabrizio Angileri,Substitute,False,True,False,1.88,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+401841089,2026-04-26T19:00Z,Vasco da Gama,Casa,169136,Jesse Lingard,Substitute,False,True,False,27.28,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+401841089,2026-04-26T19:00Z,Vasco da Gama,Casa,148189,André Carrillo,Substitute,False,True,False,13.37,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0
+401841089,2026-04-26T19:00Z,Vasco da Gama,Casa,361463,Felipe Longo,Substitute,False,False,False,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+401841089,2026-04-26T19:00Z,Vasco da Gama,Casa,144324,Zakaria Labyad,Substitute,False,False,False,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+401841089,2026-04-26T19:00Z,Vasco da Gama,Casa,234070,Pedro Raúl,Substitute,False,False,False,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+401841089,2026-04-26T19:00Z,Vasco da Gama,Casa,196879,Alex Santana,Substitute,False,False,False,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+401841089,2026-04-26T19:00Z,Vasco da Gama,Casa,359849,Pedro Milans,Substitute,False,False,False,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+401841080,2026-04-18T23:00Z,Vitória,Fora,257051,Hugo Souza,Goalkeeper,True,False,False,90.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0
+401841080,2026-04-18T23:00Z,Vitória,Fora,168981,Gustavo Henrique,Center Left Defender,True,False,False,90.0,0.0,0.0,0.0,0.0,0.0,0.0,2.0,1.0,0.0,0.0
+401841080,2026-04-18T23:00Z,Vitória,Fora,192226,Gabriel Paulista,Center Right Defender,True,False,False,90.0,0.0,0.0,1.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0
+401841080,2026-04-18T23:00Z,Vitória,Fora,287774,Matheus Bidu,Left Back,True,False,False,90.0,0.0,0.0,1.0,0.0,1.0,0.0,1.0,1.0,0.0,0.0
+401841080,2026-04-18T23:00Z,Vitória,Fora,359849,Pedro Milans,Right Back,True,False,True,63.67,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0
+401841080,2026-04-18T23:00Z,Vitória,Fora,270562,Rodrigo Garro,Attacking Midfielder,True,False,True,76.68,0.0,0.0,1.0,0.0,1.0,0.0,0.0,1.0,0.0,0.0
+401841080,2026-04-18T23:00Z,Vitória,Fora,236099,Raniele,Left Midfielder,True,False,True,63.5,0.0,0.0,1.0,0.0,0.0,0.0,4.0,0.0,0.0,0.0
+401841080,2026-04-18T23:00Z,Vitória,Fora,338898,Breno Bidon,Right Midfielder,True,False,True,54.83,0.0,0.0,0.0,0.0,0.0,0.0,1.0,2.0,0.0,0.0
+401841080,2026-04-18T23:00Z,Vitória,Fora,266666,Yuri Alberto,Forward,True,False,False,90.0,0.0,0.0,1.0,0.0,0.0,0.0,2.0,2.0,0.0,0.0
+401841080,2026-04-18T23:00Z,Vitória,Fora,361467,Kayke Ferrari,Attacking Midfielder Left,True,False,True,76.5,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+401841080,2026-04-18T23:00Z,Vitória,Fora,148189,André Carrillo,Attacking Midfielder Right,True,False,False,90.0,0.0,0.0,0.0,0.0,0.0,0.0,2.0,2.0,0.0,0.0
+401841080,2026-04-18T23:00Z,Vitória,Fora,421414,Iago Machado,Substitute,False,False,False,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+401841080,2026-04-18T23:00Z,Vitória,Fora,223437,Allan,Substitute,False,True,False,26.5,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+401841080,2026-04-18T23:00Z,Vitória,Fora,169136,Jesse Lingard,Substitute,False,True,False,13.5,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0
+401841080,2026-04-18T23:00Z,Vitória,Fora,216098,Matheus Pereira,Substitute,False,True,False,35.17,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0
+401841080,2026-04-18T23:00Z,Vitória,Fora,194090,André Ramalho,Substitute,False,False,False,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+401841080,2026-04-18T23:00Z,Vitória,Fora,361442,Kauê Camargo,Substitute,False,False,False,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+401841080,2026-04-18T23:00Z,Vitória,Fora,382944,Dieguinho,Substitute,False,False,False,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+401841080,2026-04-18T23:00Z,Vitória,Fora,347456,Kaio,Substitute,False,True,False,26.33,0.0,0.0,1.0,0.0,0.0,0.0,0.0,2.0,0.0,0.0
+401841080,2026-04-18T23:00Z,Vitória,Fora,234070,Pedro Raúl,Substitute,False,False,False,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+401841080,2026-04-18T23:00Z,Vitória,Fora,195756,Fabrizio Angileri,Substitute,False,False,False,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+401841080,2026-04-18T23:00Z,Vitória,Fora,171652,Vitinho,Substitute,False,False,False,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+401841080,2026-04-18T23:00Z,Vitória,Fora,144324,Zakaria Labyad,Substitute,False,True,False,13.32,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+401841069,2026-04-12T21:30Z,Palmeiras,Casa,257051,Hugo Souza,Goalkeeper,True,False,False,90.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,5.0,0.0
+401841069,2026-04-12T21:30Z,Palmeiras,Casa,168981,Gustavo Henrique,Center Left Defender,True,False,False,90.0,0.0,0.0,0.0,0.0,0.0,0.0,2.0,1.0,0.0,0.0
+401841069,2026-04-12T21:30Z,Palmeiras,Casa,192226,Gabriel Paulista,Center Right Defender,True,False,False,90.0,0.0,0.0,2.0,1.0,0.0,0.0,1.0,1.0,0.0,0.0
+401841069,2026-04-12T21:30Z,Palmeiras,Casa,287774,Matheus Bidu,Left Back,True,False,False,90.0,0.0,0.0,0.0,0.0,0.0,0.0,3.0,4.0,0.0,0.0
+401841069,2026-04-12T21:30Z,Palmeiras,Casa,272533,Mateuzinho,Right Back,True,False,False,70.17,0.0,0.0,0.0,0.0,1.0,1.0,3.0,0.0,0.0,0.0
+401841069,2026-04-12T21:30Z,Palmeiras,Casa,236099,Raniele,Center Left Midfielder,True,False,False,90.0,0.0,0.0,0.0,0.0,1.0,0.0,4.0,1.0,0.0,0.0
+401841069,2026-04-12T21:30Z,Palmeiras,Casa,409662,André,Center Right Midfielder,True,False,False,34.83,0.0,0.0,0.0,0.0,0.0,1.0,1.0,1.0,0.0,0.0
+401841069,2026-04-12T21:30Z,Palmeiras,Casa,361467,Kayke Ferrari,Left Midfielder,True,False,True,82.65,0.0,0.0,1.0,1.0,0.0,0.0,1.0,1.0,0.0,0.0
+401841069,2026-04-12T21:30Z,Palmeiras,Casa,338898,Breno Bidon,Right Midfielder,True,False,False,90.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,3.0,0.0,0.0
+401841069,2026-04-12T21:30Z,Palmeiras,Casa,270562,Rodrigo Garro,Center Left Forward,True,False,True,72.53,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2.0,0.0,0.0
+401841069,2026-04-12T21:30Z,Palmeiras,Casa,266666,Yuri Alberto,Center Right Forward,True,False,False,90.0,0.0,0.0,3.0,2.0,0.0,0.0,0.0,1.0,0.0,0.0
+401841069,2026-04-12T21:30Z,Palmeiras,Casa,171652,Vitinho,Substitute,False,False,False,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+401841069,2026-04-12T21:30Z,Palmeiras,Casa,169136,Jesse Lingard,Substitute,False,True,False,7.35,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+401841069,2026-04-12T21:30Z,Palmeiras,Casa,421414,Iago Machado,Substitute,False,False,False,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+401841069,2026-04-12T21:30Z,Palmeiras,Casa,371496,Luiz Gustavo,Substitute,False,False,False,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+401841069,2026-04-12T21:30Z,Palmeiras,Casa,382944,Dieguinho,Substitute,False,False,False,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+401841069,2026-04-12T21:30Z,Palmeiras,Casa,234070,Pedro Raúl,Substitute,False,False,False,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+401841069,2026-04-12T21:30Z,Palmeiras,Casa,144324,Zakaria Labyad,Substitute,False,False,False,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+401841069,2026-04-12T21:30Z,Palmeiras,Casa,223437,Allan,Substitute,False,False,False,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+401841069,2026-04-12T21:30Z,Palmeiras,Casa,148189,André Carrillo,Substitute,False,True,False,17.47,0.0,0.0,0.0,0.0,0.0,0.0,2.0,0.0,0.0,0.0
+401841069,2026-04-12T21:30Z,Palmeiras,Casa,399414,Jacaré,Substitute,False,False,False,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+401841069,2026-04-12T21:30Z,Palmeiras,Casa,216098,Matheus Pereira,Substitute,False,False,False,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+401841069,2026-04-12T21:30Z,Palmeiras,Casa,361442,Kauê Camargo,Substitute,False,False,False,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+401841064,2026-04-05T22:30Z,Internacional,Casa,257051,Hugo Souza,Goalkeeper,True,False,False,90.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2.0,1.0
+401841064,2026-04-05T22:30Z,Internacional,Casa,168981,Gustavo Henrique,Center Left Defender,True,False,False,90.0,0.0,0.0,1.0,0.0,0.0,0.0,2.0,2.0,0.0,1.0
+401841064,2026-04-05T22:30Z,Internacional,Casa,194090,André Ramalho,Center Right Defender,True,False,False,90.0,0.0,0.0,0.0,0.0,1.0,0.0,1.0,3.0,0.0,1.0
+401841064,2026-04-05T22:30Z,Internacional,Casa,195756,Fabrizio Angileri,Left Back,True,False,False,90.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,2.0,0.0,1.0
+401841064,2026-04-05T22:30Z,Internacional,Casa,272533,Mateuzinho,Right Back,True,False,True,87.43,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0
+401841064,2026-04-05T22:30Z,Internacional,Casa,216098,Matheus Pereira,Center Left Midfielder,True,False,True,45.0,0.0,0.0,1.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0
+401841064,2026-04-05T22:30Z,Internacional,Casa,236099,Raniele,Center Right Midfielder,True,False,True,82.03,0.0,0.0,1.0,0.0,0.0,0.0,3.0,0.0,0.0,1.0
+401841064,2026-04-05T22:30Z,Internacional,Casa,409662,André,Left Midfielder,True,False,False,90.0,0.0,0.0,1.0,0.0,0.0,0.0,2.0,3.0,0.0,1.0
+401841064,2026-04-05T22:30Z,Internacional,Casa,338898,Breno Bidon,Right Midfielder,True,False,True,71.83,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4.0,0.0,0.0
+401841064,2026-04-05T22:30Z,Internacional,Casa,169136,Jesse Lingard,Center Left Forward,True,False,True,71.5,0.0,0.0,0.0,0.0,1.0,0.0,4.0,0.0,0.0,0.0
+401841064,2026-04-05T22:30Z,Internacional,Casa,266666,Yuri Alberto,Center Right Forward,True,False,False,90.0,0.0,0.0,2.0,0.0,0.0,0.0,1.0,0.0,0.0,1.0
+401841064,2026-04-05T22:30Z,Internacional,Casa,234070,Pedro Raúl,Substitute,False,True,False,7.97,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0
+401841064,2026-04-05T22:30Z,Internacional,Casa,361442,Kauê Camargo,Substitute,False,False,False,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+401841064,2026-04-05T22:30Z,Internacional,Casa,270562,Rodrigo Garro,Substitute,False,True,False,45.0,0.0,0.0,2.0,2.0,0.0,0.0,0.0,4.0,0.0,1.0
+401841064,2026-04-05T22:30Z,Internacional,Casa,240557,Charles,Substitute,False,False,False,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+401841064,2026-04-05T22:30Z,Internacional,Casa,148189,André Carrillo,Substitute,False,False,False,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+401841064,2026-04-05T22:30Z,Internacional,Casa,144324,Zakaria Labyad,Substitute,False,True,False,18.17,0.0,0.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0
+401841064,2026-04-05T22:30Z,Internacional,Casa,421414,Iago Machado,Substitute,False,False,False,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+401841064,2026-04-05T22:30Z,Internacional,Casa,171652,Vitinho,Substitute,False,True,False,18.5,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0
+401841064,2026-04-05T22:30Z,Internacional,Casa,359849,Pedro Milans,Substitute,False,False,False,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+401841064,2026-04-05T22:30Z,Internacional,Casa,382944,Dieguinho,Substitute,False,True,False,2.57,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+401841064,2026-04-05T22:30Z,Internacional,Casa,361467,Kayke Ferrari,Substitute,False,False,False,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+401841064,2026-04-05T22:30Z,Internacional,Casa,192226,Gabriel Paulista,Substitute,False,False,False,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+401841054,2026-04-02T00:30Z,Fluminense,Fora,361442,Kauê Camargo,Goalkeeper,True,False,False,90.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,7.0,3.0
+401841054,2026-04-02T00:30Z,Fluminense,Fora,168981,Gustavo Henrique,Center Left Defender,True,False,False,90.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,3.0
+401841054,2026-04-02T00:30Z,Fluminense,Fora,192226,Gabriel Paulista,Center Right Defender,True,False,False,90.0,0.0,0.0,2.0,0.0,0.0,0.0,0.0,1.0,0.0,3.0
+401841054,2026-04-02T00:30Z,Fluminense,Fora,287774,Matheus Bidu,Left Back,True,False,True,45.0,0.0,0.0,0.0,0.0,1.0,0.0,1.0,1.0,0.0,2.0
+401841054,2026-04-02T00:30Z,Fluminense,Fora,272533,Mateuzinho,Right Back,True,False,False,90.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,3.0
+401841054,2026-04-02T00:30Z,Fluminense,Fora,270562,Rodrigo Garro,Attacking Midfielder,True,False,True,76.13,0.0,0.0,1.0,0.0,0.0,0.0,0.0,1.0,0.0,2.0
+401841054,2026-04-02T00:30Z,Fluminense,Fora,223437,Allan,Left Midfielder,True,False,False,54.62,0.0,0.0,1.0,1.0,1.0,1.0,1.0,1.0,0.0,2.0
+401841054,2026-04-02T00:30Z,Fluminense,Fora,240557,Charles,Right Midfielder,True,False,True,45.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,2.0
+401841054,2026-04-02T00:30Z,Fluminense,Fora,266666,Yuri Alberto,Forward,True,False,True,75.8,0.0,0.0,0.0,0.0,0.0,0.0,2.0,1.0,0.0,2.0
+401841054,2026-04-02T00:30Z,Fluminense,Fora,409662,André,Attacking Midfielder Left,True,False,False,90.0,1.0,0.0,3.0,1.0,1.0,0.0,4.0,2.0,0.0,3.0
+401841054,2026-04-02T00:30Z,Fluminense,Fora,338898,Breno Bidon,Attacking Midfielder Right,True,False,True,45.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,2.0
+401841054,2026-04-02T00:30Z,Fluminense,Fora,144324,Zakaria Labyad,Substitute,False,True,False,14.2,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0
+401841054,2026-04-02T00:30Z,Fluminense,Fora,361471,João Pedro,Substitute,False,False,False,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+401841054,2026-04-02T00:30Z,Fluminense,Fora,361463,Felipe Longo,Substitute,False,False,False,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+401841054,2026-04-02T00:30Z,Fluminense,Fora,361467,Kayke Ferrari,Substitute,False,False,False,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+401841054,2026-04-02T00:30Z,Fluminense,Fora,195756,Fabrizio Angileri,Substitute,False,True,False,45.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0
+401841054,2026-04-02T00:30Z,Fluminense,Fora,194090,André Ramalho,Substitute,False,False,False,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+401841054,2026-04-02T00:30Z,Fluminense,Fora,169136,Jesse Lingard,Substitute,False,True,False,45.0,0.0,0.0,2.0,1.0,0.0,0.0,0.0,0.0,0.0,1.0
+401841054,2026-04-02T00:30Z,Fluminense,Fora,359849,Pedro Milans,Substitute,False,False,False,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+401841054,2026-04-02T00:30Z,Fluminense,Fora,216098,Matheus Pereira,Substitute,False,True,False,45.0,0.0,0.0,2.0,1.0,1.0,0.0,3.0,0.0,0.0,1.0
+401841054,2026-04-02T00:30Z,Fluminense,Fora,234070,Pedro Raúl,Substitute,False,False,False,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+401841054,2026-04-02T00:30Z,Fluminense,Fora,382944,Dieguinho,Substitute,False,True,False,13.87,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0
+401841054,2026-04-02T00:30Z,Fluminense,Fora,171652,Vitinho,Substitute,False,False,False,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+401841046,2026-03-22T23:30Z,Flamengo,Casa,194090,André Ramalho,Desconhecida,False,False,False,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+401841046,2026-03-22T23:30Z,Flamengo,Casa,361471,João Pedro,Desconhecida,False,False,False,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+401841046,2026-03-22T23:30Z,Flamengo,Casa,361467,Kayke Ferrari,Desconhecida,False,True,False,26.67,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+401841046,2026-03-22T23:30Z,Flamengo,Casa,361442,Kauê Camargo,Desconhecida,False,False,False,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+401841046,2026-03-22T23:30Z,Flamengo,Casa,270562,Rodrigo Garro,Desconhecida,False,True,False,68.1,0.0,0.0,1.0,0.0,1.0,0.0,1.0,1.0,0.0,0.0
+401841046,2026-03-22T23:30Z,Flamengo,Casa,382959,Gui Negão,Desconhecida,False,True,False,12.15,0.0,0.0,1.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0
+401841046,2026-03-22T23:30Z,Flamengo,Casa,171652,Vitinho,Desconhecida,False,False,False,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+401841046,2026-03-22T23:30Z,Flamengo,Casa,144324,Zakaria Labyad,Desconhecida,False,False,False,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+401841046,2026-03-22T23:30Z,Flamengo,Casa,216098,Matheus Pereira,Desconhecida,False,True,False,12.17,0.0,0.0,1.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0
+401841046,2026-03-22T23:30Z,Flamengo,Casa,359849,Pedro Milans,Desconhecida,False,False,False,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+401841046,2026-03-22T23:30Z,Flamengo,Casa,240557,Charles,Desconhecida,False,False,False,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+401841046,2026-03-22T23:30Z,Flamengo,Casa,195756,Fabrizio Angileri,Desconhecida,False,False,False,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+401841046,2026-03-22T23:30Z,Flamengo,Casa,257051,Hugo Souza,Goalkeeper,True,False,False,90.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0,1.0
+401841046,2026-03-22T23:30Z,Flamengo,Casa,168981,Gustavo Henrique,Center Left Defender,True,False,False,90.0,0.0,0.0,1.0,0.0,0.0,0.0,1.0,0.0,0.0,1.0
+401841046,2026-03-22T23:30Z,Flamengo,Casa,192226,Gabriel Paulista,Center Right Defender,True,False,False,90.0,0.0,0.0,3.0,0.0,0.0,0.0,3.0,1.0,0.0,1.0
+401841046,2026-03-22T23:30Z,Flamengo,Casa,287774,Matheus Bidu,Left Back,True,False,False,90.0,0.0,1.0,1.0,0.0,0.0,0.0,3.0,2.0,0.0,1.0
+401841046,2026-03-22T23:30Z,Flamengo,Casa,272533,Mateuzinho,Right Back,True,False,False,90.0,0.0,0.0,1.0,0.0,0.0,0.0,2.0,1.0,0.0,1.0
+401841046,2026-03-22T23:30Z,Flamengo,Casa,159255,Memphis Depay,Midfielder,True,False,True,21.9,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,1.0
+401841046,2026-03-22T23:30Z,Flamengo,Casa,148189,André Carrillo,Center Midfielder,True,False,True,63.33,0.0,0.0,0.0,0.0,0.0,0.0,2.0,0.0,0.0,1.0
+401841046,2026-03-22T23:30Z,Flamengo,Casa,409662,André,Attacking Midfielder,True,False,True,77.83,0.0,0.0,2.0,0.0,0.0,0.0,2.0,1.0,0.0,1.0
+401841046,2026-03-22T23:30Z,Flamengo,Casa,236099,Raniele,Left Midfielder,True,False,False,90.0,0.0,0.0,0.0,0.0,1.0,0.0,1.0,1.0,0.0,1.0
+401841046,2026-03-22T23:30Z,Flamengo,Casa,338898,Breno Bidon,Right Midfielder,True,False,True,77.85,0.0,0.0,0.0,0.0,0.0,0.0,2.0,4.0,0.0,1.0
+401841046,2026-03-22T23:30Z,Flamengo,Casa,266666,Yuri Alberto,Center Right Forward,True,False,False,90.0,1.0,0.0,2.0,2.0,0.0,0.0,1.0,1.0,0.0,1.0
+401841036,2026-03-20T00:30Z,Chapecoense,Fora,257051,Hugo Souza,Goalkeeper,True,False,False,90.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,5.0,0.0
+401841036,2026-03-20T00:30Z,Chapecoense,Fora,361471,João Pedro,Center Left Defender,True,False,False,90.0,0.0,0.0,1.0,0.0,1.0,0.0,1.0,1.0,0.0,0.0
+401841036,2026-03-20T00:30Z,Chapecoense,Fora,194090,André Ramalho,Center Right Defender,True,False,False,90.0,0.0,0.0,0.0,0.0,1.0,0.0,1.0,0.0,0.0,0.0
+401841036,2026-03-20T00:30Z,Chapecoense,Fora,195756,Fabrizio Angileri,Left Back,True,False,False,90.0,0.0,0.0,0.0,0.0,1.0,0.0,1.0,0.0,0.0,0.0
+401841036,2026-03-20T00:30Z,Chapecoense,Fora,359849,Pedro Milans,Right Back,True,False,True,76.58,0.0,0.0,1.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0
+401841036,2026-03-20T00:30Z,Chapecoense,Fora,270562,Rodrigo Garro,Attacking Midfielder,True,False,False,90.0,0.0,0.0,4.0,2.0,0.0,0.0,0.0,5.0,0.0,0.0
+401841036,2026-03-20T00:30Z,Chapecoense,Fora,223437,Allan,Left Midfielder,True,False,False,90.0,0.0,0.0,1.0,0.0,0.0,0.0,3.0,2.0,0.0,0.0
+401841036,2026-03-20T00:30Z,Chapecoense,Fora,216098,Matheus Pereira,Right Midfielder,True,False,True,67.12,0.0,0.0,1.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0
+401841036,2026-03-20T00:30Z,Chapecoense,Fora,266666,Yuri Alberto,Forward,True,False,False,90.0,0.0,0.0,2.0,1.0,1.0,0.0,1.0,3.0,0.0,0.0
+401841036,2026-03-20T00:30Z,Chapecoense,Fora,171652,Vitinho,Attacking Midfielder Left,True,False,True,76.78,0.0,0.0,1.0,0.0,0.0,0.0,0.0,2.0,0.0,0.0
+401841036,2026-03-20T00:30Z,Chapecoense,Fora,409662,André,Attacking Midfielder Right,True,False,True,67.08,0.0,0.0,2.0,1.0,0.0,0.0,0.0,3.0,0.0,0.0
+401841036,2026-03-20T00:30Z,Chapecoense,Fora,168981,Gustavo Henrique,Substitute,False,False,False,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+401841036,2026-03-20T00:30Z,Chapecoense,Fora,236099,Raniele,Substitute,False,True,False,22.92,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0
+401841036,2026-03-20T00:30Z,Chapecoense,Fora,234070,Pedro Raúl,Substitute,False,False,False,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+401841036,2026-03-20T00:30Z,Chapecoense,Fora,382944,Dieguinho,Substitute,False,False,False,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+401841036,2026-03-20T00:30Z,Chapecoense,Fora,361442,Kauê Camargo,Substitute,False,False,False,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+401841036,2026-03-20T00:30Z,Chapecoense,Fora,144324,Zakaria Labyad,Substitute,False,False,False,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+401841036,2026-03-20T00:30Z,Chapecoense,Fora,361467,Kayke Ferrari,Substitute,False,True,False,13.22,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+401841036,2026-03-20T00:30Z,Chapecoense,Fora,287774,Matheus Bidu,Substitute,False,False,False,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+401841036,2026-03-20T00:30Z,Chapecoense,Fora,382959,Gui Negão,Substitute,False,False,False,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+401841036,2026-03-20T00:30Z,Chapecoense,Fora,272533,Mateuzinho,Substitute,False,True,False,13.42,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0
+401841036,2026-03-20T00:30Z,Chapecoense,Fora,240557,Charles,Substitute,False,False,False,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+401841036,2026-03-20T00:30Z,Chapecoense,Fora,338898,Breno Bidon,Substitute,False,True,False,22.88,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0
+401841018,2026-03-15T19:00Z,Santos,Fora,257051,Hugo Souza,Goalkeeper,True,False,False,90.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2.0,1.0
+401841018,2026-03-15T19:00Z,Santos,Fora,168981,Gustavo Henrique,Center Left Defender,True,False,False,90.0,0.0,0.0,1.0,1.0,1.0,0.0,1.0,0.0,0.0,1.0
+401841018,2026-03-15T19:00Z,Santos,Fora,192226,Gabriel Paulista,Center Right Defender,True,False,False,90.0,0.0,0.0,1.0,0.0,0.0,0.0,2.0,1.0,0.0,1.0
+401841018,2026-03-15T19:00Z,Santos,Fora,287774,Matheus Bidu,Left Back,True,False,False,90.0,0.0,0.0,0.0,0.0,0.0,0.0,2.0,3.0,0.0,1.0
+401841018,2026-03-15T19:00Z,Santos,Fora,272533,Mateuzinho,Right Back,True,False,False,90.0,0.0,0.0,1.0,0.0,0.0,0.0,1.0,2.0,0.0,1.0
+401841018,2026-03-15T19:00Z,Santos,Fora,236099,Raniele,Center Midfielder,True,False,True,89.5,0.0,0.0,1.0,0.0,0.0,0.0,1.0,3.0,0.0,1.0
+401841018,2026-03-15T19:00Z,Santos,Fora,338898,Breno Bidon,Center Left Midfielder,True,False,False,90.0,0.0,0.0,0.0,0.0,0.0,0.0,2.0,2.0,0.0,1.0
+401841018,2026-03-15T19:00Z,Santos,Fora,148189,André Carrillo,Center Right Midfielder,True,False,True,78.38,0.0,0.0,0.0,0.0,0.0,0.0,4.0,0.0,0.0,1.0
+401841018,2026-03-15T19:00Z,Santos,Fora,159255,Memphis Depay,Forward,True,False,False,90.0,1.0,0.0,3.0,1.0,1.0,0.0,0.0,1.0,0.0,1.0
+401841018,2026-03-15T19:00Z,Santos,Fora,409662,André,Center Left Forward,True,False,True,61.95,0.0,0.0,0.0,0.0,0.0,0.0,1.0,2.0,0.0,1.0
+401841018,2026-03-15T19:00Z,Santos,Fora,347456,Kaio,Center Right Forward,True,False,True,62.42,0.0,1.0,1.0,1.0,1.0,0.0,1.0,3.0,0.0,1.0
+401841018,2026-03-15T19:00Z,Santos,Fora,382959,Gui Negão,Substitute,False,False,False,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+401841018,2026-03-15T19:00Z,Santos,Fora,240557,Charles,Substitute,False,False,False,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+401841018,2026-03-15T19:00Z,Santos,Fora,195756,Fabrizio Angileri,Substitute,False,False,False,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+401841018,2026-03-15T19:00Z,Santos,Fora,234070,Pedro Raúl,Substitute,False,True,False,0.5,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+401841018,2026-03-15T19:00Z,Santos,Fora,359849,Pedro Milans,Substitute,False,False,False,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+401841018,2026-03-15T19:00Z,Santos,Fora,216098,Matheus Pereira,Substitute,False,False,False,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+401841018,2026-03-15T19:00Z,Santos,Fora,171652,Vitinho,Substitute,False,False,False,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+401841018,2026-03-15T19:00Z,Santos,Fora,361467,Kayke Ferrari,Substitute,False,True,False,28.05,0.0,0.0,1.0,0.0,0.0,0.0,0.0,2.0,0.0,0.0
+401841018,2026-03-15T19:00Z,Santos,Fora,361442,Kauê Camargo,Substitute,False,False,False,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+401841018,2026-03-15T19:00Z,Santos,Fora,270562,Rodrigo Garro,Substitute,False,True,False,27.58,0.0,0.0,1.0,1.0,0.0,0.0,0.0,1.0,0.0,0.0
+401841018,2026-03-15T19:00Z,Santos,Fora,223437,Allan,Substitute,False,True,False,11.62,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+401841018,2026-03-15T19:00Z,Santos,Fora,194090,André Ramalho,Substitute,False,False,False,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+401841013,2026-03-12T00:30Z,Coritiba,Casa,382944,Dieguinho,Desconhecida,False,True,False,32.38,0.0,0.0,1.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0
+401841013,2026-03-12T00:30Z,Coritiba,Casa,236099,Raniele,Desconhecida,False,False,False,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+401841013,2026-03-12T00:30Z,Coritiba,Casa,359849,Pedro Milans,Desconhecida,False,False,False,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+401841013,2026-03-12T00:30Z,Coritiba,Casa,240557,Charles,Desconhecida,False,False,False,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+401841013,2026-03-12T00:30Z,Coritiba,Casa,361471,João Pedro,Desconhecida,False,False,False,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+401841013,2026-03-12T00:30Z,Coritiba,Casa,234070,Pedro Raúl,Desconhecida,False,True,False,33.02,0.0,0.0,1.0,0.0,0.0,0.0,1.0,2.0,0.0,0.0
+401841013,2026-03-12T00:30Z,Coritiba,Casa,171652,Vitinho,Desconhecida,False,True,False,32.9,0.0,0.0,1.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0
+401841013,2026-03-12T00:30Z,Coritiba,Casa,144324,Zakaria Labyad,Desconhecida,False,True,False,9.3,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+401841013,2026-03-12T00:30Z,Coritiba,Casa,194090,André Ramalho,Desconhecida,False,False,False,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+401841013,2026-03-12T00:30Z,Coritiba,Casa,148189,André Carrillo,Desconhecida,False,True,False,32.52,0.0,0.0,1.0,0.0,1.0,0.0,2.0,0.0,0.0,0.0
+401841013,2026-03-12T00:30Z,Coritiba,Casa,195756,Fabrizio Angileri,Desconhecida,False,True,False,11.27,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0
+401841013,2026-03-12T00:30Z,Coritiba,Casa,361442,Kauê Camargo,Desconhecida,False,False,False,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+401841013,2026-03-12T00:30Z,Coritiba,Casa,257051,Hugo Souza,Goalkeeper,True,False,False,90.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,2.0
+401841013,2026-03-12T00:30Z,Coritiba,Casa,168981,Gustavo Henrique,Center Left Defender,True,False,False,90.0,0.0,0.0,2.0,0.0,0.0,0.0,0.0,1.0,0.0,2.0
+401841013,2026-03-12T00:30Z,Coritiba,Casa,192226,Gabriel Paulista,Center Right Defender,True,False,False,90.0,0.0,0.0,1.0,0.0,0.0,0.0,1.0,1.0,0.0,2.0
+401841013,2026-03-12T00:30Z,Coritiba,Casa,223437,Allan,Sweeper,True,False,True,57.48,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2.0
+401841013,2026-03-12T00:30Z,Coritiba,Casa,287774,Matheus Bidu,Left Back,True,False,True,78.73,0.0,0.0,0.0,0.0,0.0,0.0,2.0,3.0,0.0,2.0
+401841013,2026-03-12T00:30Z,Coritiba,Casa,272533,Mateuzinho,Right Back,True,False,False,90.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0,0.0,2.0
+401841013,2026-03-12T00:30Z,Coritiba,Casa,270562,Rodrigo Garro,Center Midfielder,True,False,True,57.1,0.0,0.0,1.0,1.0,0.0,0.0,2.0,1.0,0.0,2.0
+401841013,2026-03-12T00:30Z,Coritiba,Casa,409662,André,Left Midfielder,True,False,False,90.0,0.0,0.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,2.0
+401841013,2026-03-12T00:30Z,Coritiba,Casa,338898,Breno Bidon,Right Midfielder,True,False,True,57.62,0.0,0.0,1.0,0.0,0.0,0.0,2.0,3.0,0.0,2.0
+401841013,2026-03-12T00:30Z,Coritiba,Casa,159255,Memphis Depay,Center Left Forward,True,False,True,80.7,0.0,0.0,0.0,0.0,0.0,0.0,2.0,1.0,0.0,2.0
+401841013,2026-03-12T00:30Z,Coritiba,Casa,382959,Gui Negão,Center Right Forward,True,False,True,56.98,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,2.0
+401841001,2026-02-25T23:00Z,Cruzeiro,Fora,257051,Hugo Souza,Goalkeeper,True,False,False,90.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2.0,1.0
+401841001,2026-02-25T23:00Z,Cruzeiro,Fora,361471,João Pedro,Center Left Defender,True,False,False,90.0,1.0,0.0,1.0,1.0,0.0,0.0,2.0,0.0,0.0,1.0
+401841001,2026-02-25T23:00Z,Cruzeiro,Fora,194090,André Ramalho,Center Right Defender,True,False,False,90.0,0.0,0.0,0.0,0.0,1.0,0.0,2.0,2.0,0.0,1.0
+401841001,2026-02-25T23:00Z,Cruzeiro,Fora,195756,Fabrizio Angileri,Left Back,True,False,False,90.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,1.0,0.0,1.0
+401841001,2026-02-25T23:00Z,Cruzeiro,Fora,359849,Pedro Milans,Right Back,True,False,False,90.0,0.0,0.0,0.0,0.0,0.0,0.0,2.0,2.0,0.0,1.0
+401841001,2026-02-25T23:00Z,Cruzeiro,Fora,240557,Charles,Attacking Midfielder,True,False,True,66.75,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0
+401841001,2026-02-25T23:00Z,Cruzeiro,Fora,236099,Raniele,Left Midfielder,True,False,True,45.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,1.0
+401841001,2026-02-25T23:00Z,Cruzeiro,Fora,148189,André Carrillo,Right Midfielder,True,False,False,90.0,0.0,0.0,1.0,0.0,1.0,0.0,3.0,0.0,0.0,1.0
+401841001,2026-02-25T23:00Z,Cruzeiro,Fora,234070,Pedro Raúl,Forward,True,False,True,77.15,0.0,0.0,1.0,0.0,0.0,0.0,2.0,0.0,0.0,1.0
+401841001,2026-02-25T23:00Z,Cruzeiro,Fora,171652,Vitinho,Attacking Midfielder Left,True,False,True,66.83,0.0,0.0,1.0,1.0,0.0,0.0,0.0,1.0,0.0,1.0
+401841001,2026-02-25T23:00Z,Cruzeiro,Fora,338898,Breno Bidon,Attacking Midfielder Right,True,False,True,45.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0,0.0,1.0
+401841001,2026-02-25T23:00Z,Cruzeiro,Fora,382944,Dieguinho,Substitute,False,True,False,45.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0
+401841001,2026-02-25T23:00Z,Cruzeiro,Fora,361442,Kauê Camargo,Substitute,False,False,False,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+401841001,2026-02-25T23:00Z,Cruzeiro,Fora,287774,Matheus Bidu,Substitute,False,False,False,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+401841001,2026-02-25T23:00Z,Cruzeiro,Fora,409662,André,Substitute,False,True,False,45.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2.0,0.0,0.0
+401841001,2026-02-25T23:00Z,Cruzeiro,Fora,361467,Kayke Ferrari,Substitute,False,False,False,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+401841001,2026-02-25T23:00Z,Cruzeiro,Fora,192226,Gabriel Paulista,Substitute,False,False,False,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+401841001,2026-02-25T23:00Z,Cruzeiro,Fora,159255,Memphis Depay,Substitute,False,True,False,12.85,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+401841001,2026-02-25T23:00Z,Cruzeiro,Fora,270562,Rodrigo Garro,Substitute,False,True,False,23.25,0.0,1.0,0.0,0.0,0.0,0.0,1.0,2.0,0.0,0.0
+401841001,2026-02-25T23:00Z,Cruzeiro,Fora,223437,Allan,Substitute,False,True,False,23.17,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0
+401841001,2026-02-25T23:00Z,Cruzeiro,Fora,382959,Gui Negão,Substitute,False,False,False,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+401841001,2026-02-25T23:00Z,Cruzeiro,Fora,272533,Mateuzinho,Substitute,False,False,False,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+401841001,2026-02-25T23:00Z,Cruzeiro,Fora,168981,Gustavo Henrique,Substitute,False,False,False,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+401840981,2026-02-19T22:30Z,Athletico Paranaense,Fora,257051,Hugo Souza,Goalkeeper,True,False,False,90.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,4.0,0.0
+401840981,2026-02-19T22:30Z,Athletico Paranaense,Fora,168981,Gustavo Henrique,Center Left Defender,True,False,False,90.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,3.0,0.0,0.0
+401840981,2026-02-19T22:30Z,Athletico Paranaense,Fora,192226,Gabriel Paulista,Center Right Defender,True,False,False,90.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0
+401840981,2026-02-19T22:30Z,Athletico Paranaense,Fora,287774,Matheus Bidu,Left Back,True,False,False,90.0,0.0,0.0,0.0,0.0,1.0,0.0,1.0,3.0,0.0,0.0
+401840981,2026-02-19T22:30Z,Athletico Paranaense,Fora,272533,Mateuzinho,Right Back,True,False,False,90.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0
+401840981,2026-02-19T22:30Z,Athletico Paranaense,Fora,270562,Rodrigo Garro,Attacking Midfielder,True,False,True,60.3,1.0,0.0,1.0,1.0,0.0,0.0,0.0,3.0,0.0,0.0
+401840981,2026-02-19T22:30Z,Athletico Paranaense,Fora,216098,Matheus Pereira,Left Midfielder,True,False,True,74.38,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+401840981,2026-02-19T22:30Z,Athletico Paranaense,Fora,236099,Raniele,Right Midfielder,True,False,False,90.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0
+401840981,2026-02-19T22:30Z,Athletico Paranaense,Fora,159255,Memphis Depay,Forward,True,False,True,81.13,0.0,0.0,1.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0
+401840981,2026-02-19T22:30Z,Athletico Paranaense,Fora,171652,Vitinho,Attacking Midfielder Left,True,False,True,60.33,0.0,0.0,1.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0
+401840981,2026-02-19T22:30Z,Athletico Paranaense,Fora,240557,Charles,Attacking Midfielder Right,True,False,True,60.47,0.0,0.0,0.0,0.0,0.0,0.0,4.0,0.0,0.0,0.0
+401840981,2026-02-19T22:30Z,Athletico Paranaense,Fora,382944,Dieguinho,Substitute,False,False,False,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+401840981,2026-02-19T22:30Z,Athletico Paranaense,Fora,361467,Kayke Ferrari,Substitute,False,False,False,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+401840981,2026-02-19T22:30Z,Athletico Paranaense,Fora,234070,Pedro Raúl,Substitute,False,False,False,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+401840981,2026-02-19T22:30Z,Athletico Paranaense,Fora,148189,André Carrillo,Substitute,False,True,False,8.87,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+401840981,2026-02-19T22:30Z,Athletico Paranaense,Fora,194090,André Ramalho,Substitute,False,True,False,15.62,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+401840981,2026-02-19T22:30Z,Athletico Paranaense,Fora,361471,João Pedro,Substitute,False,False,False,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+401840981,2026-02-19T22:30Z,Athletico Paranaense,Fora,361463,Felipe Longo,Substitute,False,False,False,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+401840981,2026-02-19T22:30Z,Athletico Paranaense,Fora,359849,Pedro Milans,Substitute,False,False,False,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+401840981,2026-02-19T22:30Z,Athletico Paranaense,Fora,223437,Allan,Substitute,False,True,False,29.53,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0
+401840981,2026-02-19T22:30Z,Athletico Paranaense,Fora,371496,Luiz Gustavo,Substitute,False,False,False,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+401840981,2026-02-19T22:30Z,Athletico Paranaense,Fora,409662,André,Substitute,False,True,False,29.67,0.0,0.0,1.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0
+401840981,2026-02-19T22:30Z,Athletico Paranaense,Fora,382959,Gui Negão,Substitute,False,True,False,29.7,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0
+401840988,2026-02-12T23:00Z,Red Bull Bragantino,Casa,257051,Hugo Souza,Goalkeeper,True,False,False,90.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4.0,0.0
+401840988,2026-02-12T23:00Z,Red Bull Bragantino,Casa,168981,Gustavo Henrique,Center Left Defender,True,False,False,90.0,0.0,0.0,0.0,0.0,1.0,0.0,3.0,2.0,0.0,0.0
+401840988,2026-02-12T23:00Z,Red Bull Bragantino,Casa,192226,Gabriel Paulista,Center Right Defender,True,False,False,90.0,1.0,0.0,3.0,1.0,0.0,0.0,0.0,1.0,0.0,0.0
+401840988,2026-02-12T23:00Z,Red Bull Bragantino,Casa,236099,Raniele,Defensive Midfielder,True,False,False,90.0,0.0,0.0,1.0,0.0,1.0,0.0,4.0,3.0,0.0,0.0
+401840988,2026-02-12T23:00Z,Red Bull Bragantino,Casa,287774,Matheus Bidu,Left Back,True,False,False,90.0,1.0,0.0,2.0,1.0,1.0,0.0,1.0,7.0,0.0,0.0
+401840988,2026-02-12T23:00Z,Red Bull Bragantino,Casa,272533,Mateuzinho,Right Back,True,False,False,90.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,2.0,0.0,0.0
+401840988,2026-02-12T23:00Z,Red Bull Bragantino,Casa,270562,Rodrigo Garro,Attacking Midfielder,True,False,True,85.87,0.0,1.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0
+401840988,2026-02-12T23:00Z,Red Bull Bragantino,Casa,216098,Matheus Pereira,Left Midfielder,True,False,True,68.92,0.0,0.0,1.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0
+401840988,2026-02-12T23:00Z,Red Bull Bragantino,Casa,148189,André Carrillo,Right Midfielder,True,False,True,68.58,0.0,0.0,1.0,0.0,0.0,0.0,3.0,1.0,0.0,0.0
+401840988,2026-02-12T23:00Z,Red Bull Bragantino,Casa,266666,Yuri Alberto,Center Left Forward,True,False,True,89.67,0.0,0.0,3.0,2.0,0.0,0.0,2.0,1.0,0.0,0.0
+401840988,2026-02-12T23:00Z,Red Bull Bragantino,Casa,159255,Memphis Depay,Center Right Forward,True,False,True,85.47,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0
+401840988,2026-02-12T23:00Z,Red Bull Bragantino,Casa,382959,Gui Negão,Substitute,False,True,False,0.33,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+401840988,2026-02-12T23:00Z,Red Bull Bragantino,Casa,240557,Charles,Substitute,False,True,False,21.42,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0
+401840988,2026-02-12T23:00Z,Red Bull Bragantino,Casa,361463,Felipe Longo,Substitute,False,False,False,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+401840988,2026-02-12T23:00Z,Red Bull Bragantino,Casa,271773,Cacá,Substitute,False,False,False,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+401840988,2026-02-12T23:00Z,Red Bull Bragantino,Casa,382944,Dieguinho,Substitute,False,False,False,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+401840988,2026-02-12T23:00Z,Red Bull Bragantino,Casa,361471,João Pedro,Substitute,False,False,False,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+401840988,2026-02-12T23:00Z,Red Bull Bragantino,Casa,234070,Pedro Raúl,Substitute,False,False,False,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+401840988,2026-02-12T23:00Z,Red Bull Bragantino,Casa,194090,André Ramalho,Substitute,False,False,False,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+401840988,2026-02-12T23:00Z,Red Bull Bragantino,Casa,171652,Vitinho,Substitute,False,True,False,4.13,0.0,0.0,2.0,1.0,0.0,0.0,2.0,0.0,0.0,0.0
+401840988,2026-02-12T23:00Z,Red Bull Bragantino,Casa,361467,Kayke Ferrari,Substitute,False,True,False,4.53,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+401840988,2026-02-12T23:00Z,Red Bull Bragantino,Casa,223437,Allan,Substitute,False,True,False,21.08,0.0,0.0,0.0,0.0,1.0,0.0,0.0,3.0,0.0,0.0
+401840988,2026-02-12T23:00Z,Red Bull Bragantino,Casa,359849,Pedro Milans,Substitute,False,False,False,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+401840811,2026-01-28T23:00Z,Bahia,Casa,257051,Hugo Souza,Goalkeeper,True,False,False,90.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,4.0,2.0
+401840811,2026-01-28T23:00Z,Bahia,Casa,168981,Gustavo Henrique,Center Defender,True,False,False,90.0,0.0,0.0,2.0,1.0,0.0,0.0,1.0,0.0,0.0,2.0
+401840811,2026-01-28T23:00Z,Bahia,Casa,236099,Raniele,Center Left Defender,True,False,False,90.0,0.0,0.0,2.0,0.0,1.0,0.0,3.0,1.0,0.0,2.0
+401840811,2026-01-28T23:00Z,Bahia,Casa,192226,Gabriel Paulista,Center Right Defender,True,False,False,90.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,2.0
+401840811,2026-01-28T23:00Z,Bahia,Casa,338898,Breno Bidon,Center Left Midfielder,True,False,True,77.02,1.0,0.0,2.0,1.0,1.0,0.0,1.0,4.0,0.0,2.0
+401840811,2026-01-28T23:00Z,Bahia,Casa,148189,André Carrillo,Center Right Midfielder,True,False,True,62.38,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0,0.0,2.0
+401840811,2026-01-28T23:00Z,Bahia,Casa,270562,Rodrigo Garro,Attacking Midfielder,True,False,True,62.53,0.0,1.0,3.0,1.0,0.0,0.0,0.0,3.0,0.0,2.0
+401840811,2026-01-28T23:00Z,Bahia,Casa,287774,Matheus Bidu,Left Midfielder,True,False,False,90.0,0.0,0.0,2.0,1.0,0.0,0.0,0.0,2.0,0.0,2.0
+401840811,2026-01-28T23:00Z,Bahia,Casa,272533,Mateuzinho,Right Midfielder,True,False,False,90.0,0.0,0.0,1.0,0.0,1.0,0.0,3.0,0.0,0.0,2.0
+401840811,2026-01-28T23:00Z,Bahia,Casa,159255,Memphis Depay,Center Left Forward,True,False,True,62.5,0.0,0.0,2.0,1.0,0.0,0.0,1.0,1.0,0.0,2.0
+401840811,2026-01-28T23:00Z,Bahia,Casa,266666,Yuri Alberto,Center Right Forward,True,False,True,77.13,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,2.0
+401840811,2026-01-28T23:00Z,Bahia,Casa,409662,André,Substitute,False,True,False,27.47,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0
+401840811,2026-01-28T23:00Z,Bahia,Casa,382959,Gui Negão,Substitute,False,True,False,12.98,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+401840811,2026-01-28T23:00Z,Bahia,Casa,361467,Kayke Ferrari,Substitute,False,False,False,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+401840811,2026-01-28T23:00Z,Bahia,Casa,234070,Pedro Raúl,Substitute,False,True,False,12.87,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+401840811,2026-01-28T23:00Z,Bahia,Casa,171652,Vitinho,Substitute,False,True,False,27.5,0.0,0.0,1.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0
+401840811,2026-01-28T23:00Z,Bahia,Casa,359849,Pedro Milans,Substitute,False,False,False,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+401840811,2026-01-28T23:00Z,Bahia,Casa,382944,Dieguinho,Substitute,False,False,False,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+401840811,2026-01-28T23:00Z,Bahia,Casa,361463,Felipe Longo,Substitute,False,False,False,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+401840811,2026-01-28T23:00Z,Bahia,Casa,194090,André Ramalho,Substitute,False,False,False,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+401840811,2026-01-28T23:00Z,Bahia,Casa,240557,Charles,Substitute,False,False,False,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+401840811,2026-01-28T23:00Z,Bahia,Casa,303591,Hugo,Substitute,False,False,False,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+401840811,2026-01-28T23:00Z,Bahia,Casa,216098,Matheus Pereira,Substitute,False,True,False,27.62,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0
