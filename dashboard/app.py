@@ -116,8 +116,8 @@ st.markdown(
     }}
 
     .block-container {{
-        padding-top: 2.2rem;
-        padding-bottom: 4rem;
+        padding-top: 1.15rem;
+        padding-bottom: 3rem;
         max-width: 1500px;
     }}
 
@@ -136,45 +136,47 @@ st.markdown(
         background: linear-gradient(145deg, #191919, #131313);
         border: 1px solid #2b2b2b;
         border-top: 2px solid var(--sccp-red);
-        padding: 18px 20px;
-        border-radius: 14px;
-        min-height: 112px;
-        box-shadow: 0 8px 24px rgba(0, 0, 0, 0.16);
+        padding: 12px 16px;
+        border-radius: 13px;
+        min-height: 92px;
+        box-shadow: 0 8px 24px rgba(0, 0, 0, 0.14);
     }}
 
     [data-testid="stMetricLabel"] {{
-        color: #bcbcbc;
-        font-size: 0.92rem;
-        font-weight: 600;
+        color: #a9a9a9;
+        font-size: 0.76rem;
+        font-weight: 800;
+        letter-spacing: 0.045em;
+        text-transform: uppercase;
     }}
 
     [data-testid="stMetricValue"] {{
         color: #ffffff;
-        font-size: 1.75rem;
-        font-weight: 800;
+        font-size: 1.62rem;
+        font-weight: 900;
     }}
 
     .sccp-eyebrow {{
         color: var(--sccp-red);
-        font-size: 0.82rem;
+        font-size: 0.74rem;
         letter-spacing: 0.14em;
         font-weight: 800;
         text-transform: uppercase;
-        margin-bottom: 5px;
+        margin-bottom: 3px;
     }}
 
     .dashboard-title {{
         color: #ffffff;
-        font-size: 2.5rem;
-        line-height: 1.05;
+        font-size: 2.18rem;
+        line-height: 1.02;
         font-weight: 900;
         margin: 0;
     }}
 
     .dashboard-subtitle {{
         color: #a9a9a9;
-        font-size: 1rem;
-        margin-top: 8px;
+        font-size: 0.92rem;
+        margin-top: 5px;
     }}
 
     .season-pill {{
@@ -183,20 +185,20 @@ st.markdown(
         color: #ff6771;
         border: 1px solid rgba(228, 30, 43, 0.38);
         border-radius: 999px;
-        padding: 5px 11px;
-        margin-top: 12px;
-        font-size: 0.75rem;
+        padding: 4px 10px;
+        margin-top: 8px;
+        font-size: 0.68rem;
         font-weight: 800;
         letter-spacing: 0.06em;
     }}
 
     .section-title {{
         color: #ffffff;
-        font-size: 1.38rem;
+        font-size: 1.22rem;
         font-weight: 800;
-        margin-top: 1rem;
-        margin-bottom: 0.65rem;
-        padding-left: 12px;
+        margin-top: 0.65rem;
+        margin-bottom: 0.42rem;
+        padding-left: 10px;
         border-left: 4px solid var(--sccp-red);
     }}
 
@@ -210,11 +212,89 @@ st.markdown(
         border-radius: 10px 10px 0 0;
         padding-left: 18px;
         padding-right: 18px;
+        color: #b7b7b7;
+        font-weight: 700;
     }}
 
     [aria-selected="true"][data-baseweb="tab"] {{
         background: rgba(228, 30, 43, 0.12);
+        color: var(--sccp-red) !important;
+    }}
+
+    [data-baseweb="tab-highlight"] {{
+        background-color: var(--sccp-red) !important;
+    }}
+
+    .match-card {{
+        background: linear-gradient(135deg, #181818, #111111);
+        border: 1px solid #303030;
+        border-left: 4px solid var(--sccp-red);
+        border-radius: 14px;
+        padding: 16px 22px;
+        margin-bottom: 14px;
+    }}
+
+    .match-meta {{
+        color: #8f8f8f;
+        font-size: 0.72rem;
+        font-weight: 800;
+        letter-spacing: 0.06em;
+        text-transform: uppercase;
+        margin-bottom: 8px;
+    }}
+
+    .scoreboard {{
+        display: grid;
+        grid-template-columns: minmax(0, 1fr) auto minmax(0, 1fr);
+        align-items: center;
+        gap: 18px;
+    }}
+
+    .team-name {{
+        color: #f5f5f5;
+        font-size: 1.16rem;
+        font-weight: 850;
+    }}
+
+    .team-left {{ text-align: right; }}
+    .team-right {{ text-align: left; }}
+
+    .score {{
         color: #ffffff;
+        font-size: 2rem;
+        line-height: 1;
+        font-weight: 950;
+        letter-spacing: 0.02em;
+        white-space: nowrap;
+    }}
+
+    .score-x {{
+        color: #666;
+        padding: 0 5px;
+    }}
+
+    .match-footer {{
+        display: flex;
+        justify-content: center;
+        margin-top: 9px;
+    }}
+
+    .result-pill {{
+        display: inline-block;
+        border-radius: 999px;
+        padding: 3px 9px;
+        font-size: 0.66rem;
+        font-weight: 900;
+        letter-spacing: 0.06em;
+    }}
+
+    @media (max-width: 800px) {{
+        .scoreboard {{
+            grid-template-columns: 1fr;
+            gap: 7px;
+            text-align: center;
+        }}
+        .team-left, .team-right {{ text-align: center; }}
     }}
 
     .stButton > button {{
@@ -321,7 +401,7 @@ jogadores["posicao_pt"] = (
 # ============================================================
 
 if ESCUDO_DISPONIVEL:
-    st.sidebar.image(str(ESCUDO_PATH), width=125)
+    st.sidebar.image(str(ESCUDO_PATH), width=96)
 else:
     st.sidebar.markdown("# ⚽ SCCP")
 
@@ -377,11 +457,11 @@ st.sidebar.caption(
 # CABEÇALHO
 # ============================================================
 
-col_logo, col_header = st.columns([0.75, 5.25], vertical_alignment="center")
+col_logo, col_header = st.columns([0.55, 5.45], vertical_alignment="center")
 
 with col_logo:
     if ESCUDO_DISPONIVEL:
-        st.image(str(ESCUDO_PATH), width=112)
+        st.image(str(ESCUDO_PATH), width=86)
 
 with col_header:
     st.markdown(
@@ -396,15 +476,12 @@ with col_header:
         unsafe_allow_html=True,
     )
 
-st.write("")
-
-
 # ============================================================
 # ABAS
 # ============================================================
 
 aba_geral, aba_jogadores, aba_partidas = st.tabs(
-    ["📊 Visão geral", "👤 Jogadores", "⚽ Partidas"]
+    ["Visão geral", "Jogadores", "Partidas"]
 )
 
 
@@ -428,16 +505,16 @@ with aba_geral:
     col1, col2, col3, col4 = st.columns(4)
 
     with col1:
-        st.metric("🏟 Jogos", jogos)
+        st.metric("JOGOS", jogos)
 
     with col2:
-        st.metric("🏆 Pontos", pontos)
+        st.metric("PONTOS", pontos)
 
     with col3:
-        st.metric("📈 Aproveitamento", f"{aproveitamento:.2f}%")
+        st.metric("APROVEITAMENTO", f"{aproveitamento:.2f}%")
 
     with col4:
-        st.metric("⚽ Saldo de gols", f"{saldo:+d}")
+        st.metric("SALDO DE GOLS", f"{saldo:+d}")
 
     st.markdown(
         '<div class="section-title">Último jogo</div>',
@@ -465,17 +542,17 @@ with aba_geral:
     cor = cor_resultado(resultado)
 
     card_ultimo_jogo = (
-        '<div style="background:linear-gradient(135deg,#181818,#111111);'
-        'border:1px solid #303030;border-left:4px solid #E41E2B;'
-        'border-radius:14px;padding:26px;margin-bottom:25px;">'
-        f'<div style="color:#999;font-size:13px;font-weight:700;letter-spacing:.05em;">'
-        f'{data_ultimo} • {mando.upper()}</div>'
-        '<div style="font-size:28px;font-weight:900;margin:12px 0 8px 0;">'
-        f'{time_esquerda} &nbsp; {gols_esquerda} '
-        f'<span style="color:#666;">×</span> {gols_direita} &nbsp; {time_direita}'
+        '<div class="match-card">'
+        f'<div class="match-meta">{data_ultimo} • {mando.upper()}</div>'
+        '<div class="scoreboard">'
+        f'<div class="team-name team-left">{time_esquerda}</div>'
+        f'<div class="score">{gols_esquerda}<span class="score-x">×</span>{gols_direita}</div>'
+        f'<div class="team-name team-right">{time_direita}</div>'
         '</div>'
-        f'<div style="color:{cor};font-size:16px;font-weight:900;">'
-        f'{resultado.upper()}</div>'
+        '<div class="match-footer">'
+        f'<span class="result-pill" style="color:{cor};background:{cor}18;border:1px solid {cor}55;">'
+        f'{resultado.upper()}</span>'
+        '</div>'
         '</div>'
     )
 
@@ -503,6 +580,7 @@ with aba_geral:
         )
         fig_pontos.update_xaxes(dtick=1)
         configurar_grafico(fig_pontos)
+        fig_pontos.update_layout(height=300)
         st.plotly_chart(fig_pontos, use_container_width=True)
 
     with col2:
@@ -528,6 +606,7 @@ with aba_geral:
         )
         fig_aproveitamento.update_xaxes(dtick=1)
         configurar_grafico(fig_aproveitamento)
+        fig_aproveitamento.update_layout(height=300)
         st.plotly_chart(fig_aproveitamento, use_container_width=True)
 
     st.markdown(
