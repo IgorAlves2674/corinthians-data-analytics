@@ -1,4 +1,27 @@
 partida_id,data,adversario,mando,jogador_id,nome,posicao,titular,entrou_reserva,saiu,minutos,gols,assistencias,finalizacoes,finalizacoes_gol,cartoes_amarelos,cartoes_vermelhos,faltas_cometidas,faltas_sofridas,defesas,gols_sofridos
+401841237,2026-09-13T20:30Z,Flamengo,Fora,257051,Hugo Souza,Goalkeeper,True,False,False,90.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,7.0,2.0
+401841237,2026-09-13T20:30Z,Flamengo,Fora,421414,Iago Machado,Center Left Defender,True,False,False,90.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2.0
+401841237,2026-09-13T20:30Z,Flamengo,Fora,361471,João Pedro,Center Right Defender,True,False,False,90.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2.0
+401841237,2026-09-13T20:30Z,Flamengo,Fora,195756,Fabrizio Angileri,Left Back,True,False,True,66.62,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0
+401841237,2026-09-13T20:30Z,Flamengo,Fora,359849,Pedro Milans,Right Back,True,False,True,66.27,0.0,0.0,0.0,0.0,0.0,0.0,1.0,2.0,0.0,1.0
+401841237,2026-09-13T20:30Z,Flamengo,Fora,236099,Raniele,Center Left Midfielder,True,False,False,90.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2.0,0.0,2.0
+401841237,2026-09-13T20:30Z,Flamengo,Fora,240557,Charles,Center Right Midfielder,True,False,True,66.52,0.0,0.0,0.0,0.0,1.0,0.0,2.0,3.0,0.0,1.0
+401841237,2026-09-13T20:30Z,Flamengo,Fora,169136,Jesse Lingard,Left Midfielder,True,False,False,90.0,0.0,0.0,1.0,0.0,0.0,0.0,2.0,0.0,0.0,2.0
+401841237,2026-09-13T20:30Z,Flamengo,Fora,382944,Dieguinho,Right Midfielder,True,False,True,66.17,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0
+401841237,2026-09-13T20:30Z,Flamengo,Fora,382959,Gui Negão,Center Left Forward,True,False,False,90.0,1.0,0.0,1.0,1.0,0.0,0.0,0.0,2.0,0.0,2.0
+401841237,2026-09-13T20:30Z,Flamengo,Fora,216098,Matheus Pereira,Center Right Forward,True,False,True,72.98,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0
+401841237,2026-09-13T20:30Z,Flamengo,Fora,196879,Alex Santana,Substitute,False,False,False,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+401841237,2026-09-13T20:30Z,Flamengo,Fora,338898,Breno Bidon,Substitute,False,True,False,23.48,0.0,0.0,0.0,0.0,1.0,0.0,1.0,0.0,0.0,1.0
+401841237,2026-09-13T20:30Z,Flamengo,Fora,171652,Vitinho,Substitute,False,False,False,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+401841237,2026-09-13T20:30Z,Flamengo,Fora,361442,Kauê Camargo,Substitute,False,False,False,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+401841237,2026-09-13T20:30Z,Flamengo,Fora,234070,Pedro Raúl,Substitute,False,False,False,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+401841237,2026-09-13T20:30Z,Flamengo,Fora,192226,Gabriel Paulista,Substitute,False,False,False,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+401841237,2026-09-13T20:30Z,Flamengo,Fora,347456,Kaio,Substitute,False,True,False,23.83,0.0,1.0,0.0,0.0,0.0,0.0,1.0,3.0,0.0,1.0
+401841237,2026-09-13T20:30Z,Flamengo,Fora,270562,Rodrigo Garro,Substitute,False,True,False,17.02,0.0,0.0,0.0,0.0,1.0,0.0,2.0,0.0,0.0,1.0
+401841237,2026-09-13T20:30Z,Flamengo,Fora,272533,Mateuzinho,Substitute,False,True,False,23.73,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0
+401841237,2026-09-13T20:30Z,Flamengo,Fora,415446,Yago Veloso,Substitute,False,False,False,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+401841237,2026-09-13T20:30Z,Flamengo,Fora,287774,Matheus Bidu,Substitute,False,True,False,23.38,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2.0,0.0,1.0
+401841237,2026-09-13T20:30Z,Flamengo,Fora,303591,Hugo,Substitute,False,False,False,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
 401841220,2026-09-06T22:30Z,Chapecoense,Casa,361442,Kauê Camargo,Goalkeeper,True,False,False,90.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,3.0,2.0
 401841220,2026-09-06T22:30Z,Chapecoense,Casa,168981,Gustavo Henrique,Center Left Defender,True,False,False,90.0,0.0,1.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,2.0
 401841220,2026-09-06T22:30Z,Chapecoense,Casa,361471,João Pedro,Center Right Defender,True,False,False,90.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2.0,0.0,2.0
